@@ -1,0 +1,585 @@
+{
+  "name": "light",
+  "meanings": [
+    {
+      "word_type": "noun",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "the brightness that comes from the sun, fire, etc. and from electrical devices, and that allows things to be seen: ",
+      "level": "B1",
+      "examples": [
+        "a bright light",
+        "fluorescent/ultraviolet light",
+        "a beam/ray of light",
+        "Light was streaming in through the open door.",
+        "It's a north-facing room so it doesn't get much light (= brightness from the sun)."
+      ]
+    },
+    {
+      "word_type": "noun",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "a piece of equipment that produces light, such as a lamp or a bulb: ",
+      "level": "A2",
+      "examples": [
+        "Could you switch/turn the light on/off, please?",
+        "She could see the city lights in the distance.",
+        "As the lights went down, the audience grew quiet.",
+        "My front bike light isn't working."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "not weighing a lot: ",
+      "level": "A2",
+      "examples": [
+        "Here, take this bag - it's quite light.",
+        "He's a few pounds lighter than he used to be.",
+        "How do you get your cakes so wonderfully light, Amy?",
+        "He has a very light (= gentle) touch, which is what is required in massage.",
+        "She's very light on her feet (= she moves gracefully)."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "Light clothes are made of thin material that allows you to be cool: ",
+      "level": "A2",
+      "examples": [
+        "a light summer dress"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "lit by the natural light of the day: ",
+      "level": "B1",
+      "examples": [
+        "The big windows make the room feel wonderfully light and airy.",
+        "It gets light very early these summer mornings.",
+        "Summer is coming and the evenings are getting lighter (= getting dark later)."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "(of colours) pale: ",
+      "level": "A1",
+      "examples": [
+        "light blue/green"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "entertaining and easily understood, but not serious and not intended to make you think: ",
+      "level": "N/A",
+      "examples": [
+        "I want some light reading for the summer holidays - a romance or something.",
+        "A lively argument between the two main speakers provided some light relief (= something enjoyable or amusing) in an otherwise dull conference."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "not great in strength or amount: ",
+      "level": "B1",
+      "examples": [
+        "A light wind was blowing.",
+        "The traffic was quite light so we got through London quickly.",
+        "It's only light rain - you don't need an umbrella."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "A light meal is small and easy to digest: ",
+      "level": "N/A",
+      "examples": [
+        "I don't eat much for lunch - just a light snack."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "used to describe alcoholic drinks that are not strong in flavour: ",
+      "level": "N/A",
+      "examples": [
+        "It's described on the label as \"light, fruity wine\"."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "needing only a very small amount of effort: ",
+      "level": "N/A",
+      "examples": [
+        "light exercise, such as walking",
+        "a little light housework"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "A light sentence in prison is a short one: ",
+      "level": "N/A",
+      "examples": [
+        "He got off with a fairly light sentence because it was his first conviction."
+      ]
+    },
+    {
+      "word_type": "verb",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "to start to burn or to make something start to burn: ",
+      "level": "B1",
+      "examples": [
+        "to light a fire",
+        "I can't get the cooker to light.",
+        "He lit his fifth cigarette in half an hour."
+      ]
+    },
+    {
+      "word_type": "verb",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "laɪt"
+        }
+      ],
+      "definition": "to produce light that makes an object or area bright or easy to see: ",
+      "level": "B2",
+      "examples": [
+        "The stage had been lit with candles.",
+        "Fireworks lit up the sky (= made the sky bright)."
+      ]
+    },
+    {
+      "word_type": "noun",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "the energy from the sun or fire and from electrical devices that allows you to see clearly: ",
+      "level": "N/A",
+      "examples": [
+        "Light was streaming through the windows.",
+        "The light was so bright that it hurt my eyes."
+      ]
+    },
+    {
+      "word_type": "noun",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "A light is also anything that provides light, esp. an electric lamp: ",
+      "level": "N/A",
+      "examples": [
+        "Don’t forget to turn off the lights when you leave."
+      ]
+    },
+    {
+      "word_type": "noun",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "A light is also a traffic light: ",
+      "level": "N/A",
+      "examples": [
+        "Let’s go – you’ve got a green light."
+      ]
+    },
+    {
+      "word_type": "noun",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "a device used to produce a flame, such as a match: ",
+      "level": "N/A",
+      "examples": [
+        "Excuse me, have you got a light?"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "having little weight; not heavy: ",
+      "level": "N/A",
+      "examples": [
+        "This suitcase is pretty light.",
+        "Ty’s a few pounds lighter than he used to be."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "Clothes that are light are made of thin material which allows you to be cool: ",
+      "level": "N/A",
+      "examples": [
+        "a light summer dress"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "A light meal is a small one: ",
+      "level": "N/A",
+      "examples": [
+        "a light snack"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "(of food) having less fat or fewer calories than usual: ",
+      "level": "N/A",
+      "examples": [
+        "light cream cheese"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "intended to entertain; not serious: ",
+      "level": "N/A",
+      "examples": [
+        "Take along some light reading for the trip."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "not great in strength or amount; slight: ",
+      "level": "N/A",
+      "examples": [
+        "a light rain",
+        "light traffic",
+        "The doctor said it was OK to take light exercise, such as walking."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "A light sentence in prison is a short one.",
+      "level": "N/A",
+      "examples": []
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "Tastes and smells described as light are not obvious: ",
+      "level": "N/A",
+      "examples": [
+        "a light scent of wildflowers"
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "providing energy from the sun that allows you to see clearly: ",
+      "level": "N/A",
+      "examples": [
+        "It was still light out at eight in the evening."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        }
+      ],
+      "definition": "(of colors) pale: ",
+      "level": "N/A",
+      "examples": [
+        "a light-colored car",
+        "The walls were light green."
+      ]
+    },
+    {
+      "word_type": "verb",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "lɪt"
+        }
+      ],
+      "definition": "to provide with energy from the sun, fire, or electrical devices that allow you to see clearly: ",
+      "level": "N/A",
+      "examples": [
+        "The house was lit with candles for the dinner party."
+      ]
+    },
+    {
+      "word_type": "verb",
+      "ipa": [
+        {
+          "region": "us",
+          "pronunciation": "lɑɪt"
+        },
+        {
+          "region": "us",
+          "pronunciation": "lɪt"
+        }
+      ],
+      "definition": "to produce a flame: ",
+      "level": "N/A",
+      "examples": [
+        "I can’t get the barbecue to light.",
+        "I tried to light the fire, but the wood was wet."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us"
+        }
+      ],
+      "definition": "not great in size, strength, or amount: ",
+      "level": "N/A",
+      "examples": [
+        "Air traffic was very light at Heathrow so we were not delayed.",
+        "We had a light meal before we began negotiations."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us"
+        }
+      ],
+      "definition": "used for describing forms of transport that are smaller or that use less power than the usual kind: ",
+      "level": "N/A",
+      "examples": [
+        "Fleets of light trucks deliver furniture to households throughout the region.",
+        "Light aircraft allow busy executives to fly anywhere at a moment's notice.",
+        "A contest for light rail development drew interest from urban planners."
+      ]
+    },
+    {
+      "word_type": "adjective",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us"
+        }
+      ],
+      "definition": "needing only a very small amount of work or effort: ",
+      "level": "N/A",
+      "examples": [
+        "light chores/cleaning/work"
+      ]
+    },
+    {
+      "word_type": "noun",
+      "ipa": [
+        {
+          "region": "uk",
+          "pronunciation": "laɪt"
+        },
+        {
+          "region": "us"
+        }
+      ],
+      "definition": "a way of thinking about or understanding something: ",
+      "level": "N/A",
+      "examples": [
+        "After they won all those awards, we saw them in a new light and decided they were serious competitors.",
+        "We want to show our country in a positive light."
+      ]
+    }
+  ]
+}
