@@ -91,7 +91,7 @@ class CambCrawler {
     };
   }
 
-  async crawlWordLinks(character: string): Promise<string[]> {
+  async crawlLinksLevel1(character: string): Promise<string[]> {
     if (!CambCrawler.browser) {
       throw new Error('Browser is not launched');
     }
@@ -112,6 +112,30 @@ class CambCrawler {
     });
     return result;
   }
+
+  async crawlWordLinks(linkLevel1: string): Promise<string[]> {
+    if (!CambCrawler.browser) {
+      throw new Error('Browser is not launched');
+    }
+
+    console.log('Start crawling word links from ', linkLevel1);
+    const page = await CambCrawler.browser.newPage();
+    await page.goto(linkLevel1, {
+      waitUntil: ['networkidle2'],
+    });
+    const result = await page.evaluate(() => {
+      const wordLinks = [];
+      const wordLinksElements = document.querySelectorAll(
+        'body > div.cc.fon > div > div > div.hfr-m.ltab.lp-m_l-15 > div.x.lmt-15 > div.hfl-s.lt2b.lmt-10.lmb-25.lp-s_r-20 > div.hdf.ff-50.lmt-15.i-browse a'
+      ) as NodeListOf<HTMLAnchorElement>;
+      wordLinksElements.forEach((wordLinksElement) => {
+        wordLinks.push(wordLinksElement.href);
+      });
+      return wordLinks;
+    });
+    console.log('Finish crawling word links from ', linkLevel1);
+    return result;
+  }
 }
 
 // const cambCrawler = new CambCrawler();
@@ -121,17 +145,121 @@ class CambCrawler {
 //   fs.writeFileSync(`./${crawlWord}.json`, JSON.stringify(w, null, 2));
 // });
 
-async function crawlWordLinks() {
+async function crawlLinksLevel1() {
   await CambCrawler.launch();
   const cambCrawler = new CambCrawler();
   const wordLinks = [];
   for (let i = 0; i < ALPHABET.length; i++) {
     const character = ALPHABET[i];
-    wordLinks.push(await cambCrawler.crawlWordLinks(character));
+    wordLinks.push(await cambCrawler.crawlLinksLevel1(character));
     await new Promise((resolve) => setTimeout(resolve, 2000));
   }
-  fs.writeFileSync(`./word_list.json`, JSON.stringify(wordLinks, null, 2));
+  fs.writeFileSync(`./word_link_lv1.json`, JSON.stringify(wordLinks, null, 2));
   await CambCrawler.close();
 }
 
-crawlWordLinks();
+// crawlLinksLevel1();
+
+async function crawlWordLinks(
+  wordLinkLv1: string[][],
+  start = 0,
+  startLinkIndex = 0
+) {
+  await CambCrawler.launch();
+  const cambCrawler = new CambCrawler();
+  for (let i = start; i < ALPHABET.length; i++) {
+    console.log(`Start crawling links from index ${i} ${ALPHABET[i]}`);
+    for (let j = 0; j < wordLinkLv1[i].length; j++) {
+      updateProgressBar(
+        j,
+        wordLinkLv1[i].length,
+        `Start crawling links from index ${j} ${wordLinkLv1[i][j]}`
+      );
+      if (i === start && j < startLinkIndex) {
+        continue;
+      }
+
+      try {
+        const links = await cambCrawler.crawlWordLinks(wordLinkLv1[i][j]);
+        const wordLinks = fs.readFileSync('./word_links.json', 'utf-8');
+        const wordLinksJson = JSON.parse(wordLinks);
+        if (!wordLinksJson[i]) {
+          wordLinksJson[i] = links;
+        } else {
+          wordLinksJson[i] = [...wordLinksJson[i], ...links];
+        }
+        fs.writeFileSync(
+          `./word_links.json`,
+          JSON.stringify(wordLinksJson, null, 2)
+        );
+      } catch (error) {
+        console.log(
+          'Failed to crawl link from ',
+          ALPHABET[i],
+          ' link index',
+          j,
+          ' link: ',
+          wordLinkLv1[i][j]
+        );
+
+        fs.writeFileSync(
+          `./crawl-lock.json`,
+          JSON.stringify(
+            {
+              start_char: i,
+              link_index: j,
+            },
+            null,
+            2
+          )
+        );
+        await CambCrawler.close();
+        throw error;
+        // console.log('Restarting browser');
+        // await CambCrawler.close();
+        // await new Promise((resolve) => setTimeout(resolve, 3000));
+        // await CambCrawler.launch();
+        // console.log('Restarted browser');
+      }
+      updateProgressBar(
+        j,
+        wordLinkLv1[i].length,
+        `Start crawling links from ${wordLinkLv1[i][j]}`
+      );
+    }
+  }
+  await CambCrawler.close();
+}
+
+function updateProgressBar(currentValue, totalValue, message = '') {
+  const progressBarLength = 100; // Length of the progress bar in characters
+  const percentageComplete = (currentValue / totalValue) * 100;
+  const completeLength = Math.floor(
+    (percentageComplete / 100) * progressBarLength
+  );
+  const progressBar =
+    '#'.repeat(completeLength) + '-'.repeat(progressBarLength - completeLength);
+  process.stdout.write(
+    `\r[${progressBar}] ${percentageComplete.toFixed(2)}%-${message.padEnd(
+      progressBarLength
+    )}`
+  );
+  if (currentValue === totalValue) {
+    process.stdout.write('\n'); // Move to the next line when 100% complete
+  }
+}
+
+async function run() {
+  const wordLinkLv1 = JSON.parse(
+    fs.readFileSync('./word_link_lv1.json', 'utf-8')
+  );
+  if (!wordLinkLv1) {
+    throw new Error('Word link level 1 is not found');
+  }
+
+  const crawlLock = fs.readFileSync('./crawl-lock.json', 'utf-8');
+  const { start_char, link_index } = JSON.parse(crawlLock);
+  await crawlWordLinks(wordLinkLv1, start_char, link_index);
+}
+
+run();
