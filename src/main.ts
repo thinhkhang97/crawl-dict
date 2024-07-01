@@ -1,17 +1,36 @@
-import { ICrawler } from './types/common';
-import puppeteer from 'puppeteer';
+import puppeteer, { Browser } from 'puppeteer';
 import { Word } from './types/word';
 import fs from 'fs';
 
 const API_URL = `https://dictionary.cambridge.org/dictionary/english`;
+const BROWSE_API_URL = `https://dictionary.cambridge.org/browse/english`;
+const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'.split('');
 
-class CambCrawler implements ICrawler {
+class CambCrawler {
+  private static browser: Browser | null = null;
+
+  public static async launch() {
+    if (!CambCrawler.browser) {
+      CambCrawler.browser = await puppeteer.launch();
+    }
+  }
+
+  public static async close() {
+    if (CambCrawler.browser) {
+      await CambCrawler.browser.close();
+    }
+  }
+
   async crawl(word: string): Promise<Word> {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
+    if (!CambCrawler.browser) {
+      throw new Error('Browser is not launched');
+    }
+
+    const page = await CambCrawler.browser.newPage();
     await page.goto(`${API_URL}/${word}`, {
       waitUntil: ['networkidle2'],
     });
+
     const result = await page.evaluate(() => {
       const meaningSections = document.querySelectorAll('.pr .entry-body__el');
       const meanings = [];
@@ -71,11 +90,48 @@ class CambCrawler implements ICrawler {
       meanings: result,
     };
   }
+
+  async crawlWordLinks(character: string): Promise<string[]> {
+    if (!CambCrawler.browser) {
+      throw new Error('Browser is not launched');
+    }
+
+    const page = await CambCrawler.browser.newPage();
+    await page.goto(`${BROWSE_API_URL}/${character}`, {
+      waitUntil: ['networkidle2'],
+    });
+    const result = await page.evaluate(() => {
+      const wordList = [];
+      const wordListElements = document.querySelectorAll(
+        'body > div.cc.fon > div > div > div.hfr-m.ltab.lp-m_l-15 > div.x.lmt-15 > div.hfl-s.lt2b.lmt-10.lmb-25.lp-s_r-20 > div.hdf.ff-50.lmt-15.i-browse a'
+      ) as NodeListOf<HTMLAnchorElement>;
+      wordListElements.forEach((wordListElement) => {
+        wordList.push(wordListElement.href);
+      });
+      return wordList;
+    });
+    return result;
+  }
 }
 
-const cambCrawler = new CambCrawler();
-const crawlWord = 'light';
-const word = cambCrawler.crawl(crawlWord);
-word.then((w) => {
-  fs.writeFileSync(`./${crawlWord}.json`, JSON.stringify(w, null, 2));
-});
+// const cambCrawler = new CambCrawler();
+// const crawlWord = 'light';
+// const word = cambCrawler.crawl(crawlWord);
+// word.then((w) => {
+//   fs.writeFileSync(`./${crawlWord}.json`, JSON.stringify(w, null, 2));
+// });
+
+async function crawlWordLinks() {
+  await CambCrawler.launch();
+  const cambCrawler = new CambCrawler();
+  const wordLinks = [];
+  for (let i = 0; i < ALPHABET.length; i++) {
+    const character = ALPHABET[i];
+    wordLinks.push(await cambCrawler.crawlWordLinks(character));
+    await new Promise((resolve) => setTimeout(resolve, 2000));
+  }
+  fs.writeFileSync(`./word_list.json`, JSON.stringify(wordLinks, null, 2));
+  await CambCrawler.close();
+}
+
+crawlWordLinks();
