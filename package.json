@@ -5,6 +5,7 @@
   "scripts": {
     "start": "nx serve",
     "build": "nx build",
+    "crawl": "node dist/camb-crawl/main.js --index",
     "test": "nx test"
   },
   "private": true,
