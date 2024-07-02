@@ -1,6 +1,6 @@
+import fs from 'fs';
 import puppeteer, { Browser } from 'puppeteer';
 import { Word } from './types/word';
-import fs from 'fs';
 
 const API_URL = `https://dictionary.cambridge.org/dictionary/english`;
 const BROWSE_API_URL = `https://dictionary.cambridge.org/browse/english`;
@@ -11,11 +11,13 @@ class CambCrawler {
 
   public static async launch() {
     if (!CambCrawler.browser) {
+      console.log('Launching browser');
       CambCrawler.browser = await puppeteer.launch();
     }
   }
 
   public static async close() {
+    console.log('Closing browser');
     if (CambCrawler.browser) {
       await CambCrawler.browser.close();
     }
@@ -134,6 +136,7 @@ class CambCrawler {
       return wordLinks;
     });
     console.log('Finish crawling word links from ', linkLevel1);
+    await page.close();
     return result;
   }
 }
@@ -165,16 +168,13 @@ async function crawlWordLinks(
   start = 0,
   startLinkIndex = 0
 ) {
-  await CambCrawler.launch();
   const cambCrawler = new CambCrawler();
+  await CambCrawler.launch();
   for (let i = start; i < ALPHABET.length; i++) {
-    console.log(`Start crawling links from index ${i} ${ALPHABET[i]}`);
+    console.log(`Start crawling links ${ALPHABET[i]} from index ${i}`);
     for (let j = 0; j < wordLinkLv1[i].length; j++) {
-      updateProgressBar(
-        j,
-        wordLinkLv1[i].length,
-        `Start crawling links from index ${j} ${wordLinkLv1[i][j]}`
-      );
+      console.log(`Start crawling links from index ${j} ${wordLinkLv1[i][j]}`);
+
       if (i === start && j < startLinkIndex) {
         continue;
       }
@@ -221,32 +221,11 @@ async function crawlWordLinks(
         // await CambCrawler.launch();
         // console.log('Restarted browser');
       }
-      updateProgressBar(
-        j,
-        wordLinkLv1[i].length,
-        `Start crawling links from ${wordLinkLv1[i][j]}`
-      );
+      console.log(`Finish crawling links from index ${j} ${wordLinkLv1[i][j]}`);
     }
+    console.log(`Finish crawling links ${ALPHABET[i]} from index ${i}`);
   }
   await CambCrawler.close();
-}
-
-function updateProgressBar(currentValue, totalValue, message = '') {
-  const progressBarLength = 100; // Length of the progress bar in characters
-  const percentageComplete = (currentValue / totalValue) * 100;
-  const completeLength = Math.floor(
-    (percentageComplete / 100) * progressBarLength
-  );
-  const progressBar =
-    '#'.repeat(completeLength) + '-'.repeat(progressBarLength - completeLength);
-  process.stdout.write(
-    `\r[${progressBar}] ${percentageComplete.toFixed(2)}%-${message.padEnd(
-      progressBarLength
-    )}`
-  );
-  if (currentValue === totalValue) {
-    process.stdout.write('\n'); // Move to the next line when 100% complete
-  }
 }
 
 async function run() {
