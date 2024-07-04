@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { ALPHABET } from './constant';
+import { ALPHABET, API_URL } from './constant';
 import { HightLevelLinksCrawler } from './crawlers/high-level-links.crawler';
 import { WordsLinksCrawler } from './crawlers/word-links.crawler';
 import { WordCrawler } from './crawlers/word.crawler';
@@ -90,7 +90,11 @@ export class Runner {
     await Crawler.launch();
     const cambCrawler = new WordCrawler();
     const word = await cambCrawler.crawl(url);
-    currentData[word.name.replace(/ /g, '_')] = word;
+    const path = url.replace(`${API_URL}/`, '');
+    currentData[path] = {
+      ...word,
+      character,
+    };
     fs.writeFileSync(
       `./data/${character}.json`,
       JSON.stringify(currentData, null, 2)
@@ -109,6 +113,10 @@ export class Runner {
     if (!wordLinkAtIndex) {
       throw new Error('Word links at index is not found');
     }
+
+    console.log('START CRAWLING WORDS START WITH ', ALPHABET[index]);
+    console.log('Total words: ', wordLinkAtIndex.length);
+    console.log('==================================================');
 
     let startTryAt = 0;
     try {
@@ -140,11 +148,14 @@ export class Runner {
         throw error;
       }
     }
+
+    console.log('==================================================');
+    console.log('FINISH CRAWLING WORDS START WITH ', ALPHABET[index]);
   }
 }
 
-const runner = new Runner();
-runner.crawlWords(0);
+// const runner = new Runner();
+// runner.crawlWords(0);
 // runner.crawlWord(
 //   'a',
 //   'https://dictionary.cambridge.org/dictionary/english/heavy-cross-to-bear'
