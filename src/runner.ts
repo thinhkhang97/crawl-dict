@@ -4,8 +4,24 @@ import { HightLevelLinksCrawler } from './crawlers/high-level-links.crawler';
 import { WordsLinksCrawler } from './crawlers/word-links.crawler';
 import { WordCrawler } from './crawlers/word.crawler';
 import { Crawler } from './types/common';
+import cliProgress from 'cli-progress';
+import colors from 'ansi-colors';
 
 export class Runner {
+  private cliProgress: cliProgress.SingleBar;
+
+  constructor() {
+    this.cliProgress = new cliProgress.SingleBar({
+      format:
+        'Crawling process |' +
+        colors.green('{bar}') +
+        '| {percentage}% || {value}/{total} Words',
+      barCompleteChar: '\u2588',
+      barIncompleteChar: '\u2591',
+      hideCursor: true,
+    });
+  }
+
   async crawlHighLevelLinks() {
     await Crawler.launch();
     const cambCrawler = new HightLevelLinksCrawler();
@@ -98,6 +114,7 @@ export class Runner {
       `./data/${character}.json`,
       JSON.stringify(currentData, null, 2)
     );
+    await new Promise((resolve) => setTimeout(resolve, 500));
   }
 
   async crawlWords(index: number) {
@@ -112,10 +129,6 @@ export class Runner {
     if (!wordLinkAtIndex) {
       throw new Error('Word links at index is not found');
     }
-
-    console.log('START CRAWLING WORDS START WITH ', ALPHABET[index]);
-    console.log('Total words: ', wordLinkAtIndex.length);
-    console.log('==================================================');
 
     let startTryAt = 0;
     try {
@@ -135,9 +148,19 @@ export class Runner {
       console.log("Can't find current data");
     }
 
+    console.log(
+      'START CRAWLING WORDS START WITH ',
+      ALPHABET[index],
+      ' at index ',
+      startTryAt
+    );
+    console.log('==================================================');
+    this.cliProgress.start(wordLinkAtIndex.length, startTryAt);
+
     for (let i = startTryAt; i < wordLinkAtIndex.length; i++) {
       try {
         await this.crawlWord(currentData, ALPHABET[index], wordLinkAtIndex[i]);
+        this.cliProgress.increment();
       } catch (error) {
         console.log(
           'Failed to crawl word at index ',
@@ -147,6 +170,7 @@ export class Runner {
           ' per total: ',
           wordLinkAtIndex.length
         );
+        this.cliProgress.stop();
       } finally {
         fs.writeFileSync(
           `./crawl-log/${ALPHABET[index]}.json`,
@@ -154,6 +178,7 @@ export class Runner {
         );
       }
     }
+    this.cliProgress.stop();
 
     console.log('==================================================');
     console.log('FINISH CRAWLING WORDS START WITH ', ALPHABET[index]);
