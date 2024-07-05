@@ -87,7 +87,6 @@ export class Runner {
     character: string,
     url: string
   ) {
-    await Crawler.launch();
     const cambCrawler = new WordCrawler();
     const word = await cambCrawler.crawl(url);
     const path = url.replace(`${API_URL}/`, '');
@@ -140,12 +139,19 @@ export class Runner {
       try {
         await this.crawlWord(currentData, ALPHABET[index], wordLinkAtIndex[i]);
       } catch (error) {
-        console.log('Failed to crawl word at index ', index, ' link index ', i);
+        console.log(
+          'Failed to crawl word at index ',
+          index,
+          ' link index ',
+          i,
+          ' per total: ',
+          wordLinkAtIndex.length
+        );
+      } finally {
         fs.writeFileSync(
           `./crawl-log/${ALPHABET[index]}.json`,
           JSON.stringify({ try_again_at: i }, null, 2)
         );
-        throw error;
       }
     }
 
@@ -153,10 +159,3 @@ export class Runner {
     console.log('FINISH CRAWLING WORDS START WITH ', ALPHABET[index]);
   }
 }
-
-// const runner = new Runner();
-// runner.crawlWords(0);
-// runner.crawlWord(
-//   'a',
-//   'https://dictionary.cambridge.org/dictionary/english/heavy-cross-to-bear'
-// );
