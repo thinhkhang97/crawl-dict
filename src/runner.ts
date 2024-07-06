@@ -86,7 +86,6 @@ export class Runner {
               2
             )
           );
-          await Crawler.close();
           throw error;
         }
         console.log(
@@ -114,7 +113,6 @@ export class Runner {
       `./data/${character}.json`,
       JSON.stringify(currentData, null, 2)
     );
-    await new Promise((resolve) => setTimeout(resolve, 500));
   }
 
   async crawlWords(index: number) {
@@ -171,6 +169,11 @@ export class Runner {
           wordLinkAtIndex.length
         );
         this.cliProgress.stop();
+        fs.writeFileSync(
+          `./crawl-log/${ALPHABET[index]}.json`,
+          JSON.stringify({ try_again_at: i }, null, 2)
+        );
+        throw error;
       } finally {
         fs.writeFileSync(
           `./crawl-log/${ALPHABET[index]}.json`,
