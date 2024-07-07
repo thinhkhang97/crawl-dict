@@ -1,0 +1,5842 @@
+{
+  "z": {
+    "name": "Z, z",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zed"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ziː"
+          }
+        ],
+        "definition": "the 26th and last letter of the English alphabet",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zi"
+          }
+        ],
+        "definition": "the 26th and last letter of the English alphabet",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "z-axis": {
+    "name": "z-axis",
+    "meanings": [
+      {
+        "word_type": "noun[ C usually singular ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzedˌæk.sɪs"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziːˌæk.sɪs"
+          }
+        ],
+        "definition": "in a three-dimensional space (= one that has height, length, and width), the line along which the values of z are shown on a graph, diagram, etc., perpendicular to the x- and y-axes and usually starting from a point at which both x and y have the value 0: ",
+        "level": "N/A",
+        "examples": [
+          "These values are marked along the z-axis.",
+          "In a 3D environment, the Z-line or Z-axis is depth.",
+          "The location of each data value in the data cube is marked on the x-, y-, and z-axes of the cube. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "z-bed": {
+    "name": "Z-bed",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzed.bed"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.bed"
+          }
+        ],
+        "definition": "a simple type of bed that folds into the shape of a Z and that can be put away when it is not needed: ",
+        "level": "N/A",
+        "examples": [
+          "We don't have a spare room so he has to sleep on a Z-bed in the living room.",
+          "In the past Z beds tended to be fairly small and looked more like a deck chair or sun bed."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "z-list": {
+    "name": "Z-list",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzed.lɪst"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.lɪst"
+          }
+        ],
+        "definition": "used to describe people who are only slightly famous, or who are famous but not for doing anything special: ",
+        "level": "N/A",
+        "examples": [
+          "They got a few Z-list celebrities to come to the party."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "z-score": {
+    "name": "Z-score",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a figure that shows how likely a business is to fail, calculated by looking at its assets, profits, debt, etc. at a particular time: ",
+        "level": "N/A",
+        "examples": [
+          "The Z-score gives investors a snapshot of corporate financial health."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zabaglione": {
+    "name": "zabaglione",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzæb.əlˈjəʊ.ni"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɑː.bəlˈjoʊ.ni"
+          }
+        ],
+        "definition": "an Italian sweet dish made from eggs, sugar, and sweet wine",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zaftig": {
+    "name": "zaftig",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzæf.tɪɡ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzæf.tɪɡ"
+          }
+        ],
+        "definition": "(of a woman) having large breasts and hips and not thin, but in a way that is attractive : ",
+        "level": "N/A",
+        "examples": [
+          "Marilyn Monroe was sometimes called full-figured or zaftig."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zaibatsu": {
+    "name": "zaibatsu",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪˈbætˌsuː"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a group of industrial and financial companies that controlled a large part of the economy of Japan before the Second World War",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zaire": {
+    "name": "Zaire",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪˈɪər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪˈɪr"
+          }
+        ],
+        "definition": "a former name for the \n        \n         Democratic Republic of the Congo  ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zairean": {
+    "name": "Zairean",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪˈɪə.ri.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪˈɪr.i.ən"
+          }
+        ],
+        "definition": "belonging to or relating to the former country of Zaire or its people",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪˈɪə.ri.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪˈɪr.i.ən"
+          }
+        ],
+        "definition": "a person from the former country of Zaire",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zaitech": {
+    "name": "zaitech",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪtek"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "in Japan in the 1970s and 80s, the practice of companies investing money borrowed at low interest rates so as to show higher profits than they got from their business activities alone: ",
+        "level": "N/A",
+        "examples": [
+          "During the Japanese bull market of the 1980s , much adverse comment focused on the extent to which these companies engaged in zaitech."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zakat": {
+    "character": "z"
+  },
+  "zambia": {
+    "name": "Zambia",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzæm.bi.ə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzæm.bi.ə"
+          }
+        ],
+        "definition": "a country in Southern Africa",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zambian": {
+    "name": "Zambian",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzæm.bi.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzæm.bi.ən"
+          }
+        ],
+        "definition": "belonging to or relating to Zambia or its people",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzæm.bi.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzæm.bi.ən"
+          }
+        ],
+        "definition": "a person from Zambia",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zamboni": {
+    "name": "Zamboni",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zæmˈbəʊ.ni"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zæmˈboʊ.ni"
+          }
+        ],
+        "definition": "a brand name for a machine that is used to smooth the surface of the ice on an ice rink: ",
+        "level": "N/A",
+        "examples": [
+          "We drive the Zamboni on both rinks, trying to manoeuvre close to the corners.",
+          "The final group of skaters was delayed for more than an hour past the usual ice resurfacing time because one Zamboni machine was broken."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zamindar": {
+    "character": "z"
+  },
+  "zanily": {
+    "name": "zanily",
+    "meanings": [
+      {
+        "word_type": "adverb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzeɪ.nəl.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzeɪ.nəl.i"
+          }
+        ],
+        "definition": "in a way that is humorously strange, surprising, or uncontrolled : ",
+        "level": "N/A",
+        "examples": [
+          "The classic comedy scene features the four brothers being chased zanily by bumbling guards through a museum filled with priceless artworks. ",
+          "Over 20 clowns were zanily loaded into the compact car, which then drove in circles around the arena. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zany": {
+    "name": "zany",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzeɪ.ni"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzeɪ.ni"
+          }
+        ],
+        "definition": "strange, surprising, or uncontrolled in a humorous way: ",
+        "level": "N/A",
+        "examples": [
+          "a zany film",
+          "zany clothing/ideas"
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzeɪ·ni"
+          }
+        ],
+        "definition": "surprisingly different and a little strange, and therefore amusing and interesting: ",
+        "level": "N/A",
+        "examples": [
+          "He was responsible for the zany Sesame Street puppet characters loved by children worldwide."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zap": {
+    "name": "zap",
+    "meanings": [
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zæp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "to get rid of or kill something or someone, especially intentionally: ",
+        "level": "N/A",
+        "examples": [
+          "They have the kind of weapons that can zap the enemy from thousands of miles away.",
+          "We're really going to zap the competition with this new product!"
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zæp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "to go somewhere or do something quickly: ",
+        "level": "N/A",
+        "examples": [
+          "Have I got time to zap into town and do some shopping?",
+          "George zapped through his homework and rushed out to play basketball.",
+          "There are now over a million American fax machines zapping (= sending quickly) messages from coast to coast."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zæp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "to use an electronic device to change television channels quickly, sometimes to avoid watching advertisements",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zæp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "to cook something in a microwave: ",
+        "level": "N/A",
+        "examples": [
+          "Don't bake potatoes in the oven, zap them in the microwave - dinner in 10 minutes! "
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zæp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "an electric shock or something similar: ",
+        "level": "N/A",
+        "examples": [
+          "The device gives cold batteries a zap of energy to bring them back to life.",
+          "The zap is as strong as an electric eel's."
+        ]
+      },
+      {
+        "word_type": "exclamation",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zæp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "used, especially in comics (= stories told in pictures) to show that someone has been hit : ",
+        "level": "N/A",
+        "examples": [
+          "Pow! Zap!",
+          "Zap! The lightning season has started."
+        ]
+      },
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "to destroy or attack something suddenly, esp. with electricity, radiation, or another form of energy: ",
+        "level": "N/A",
+        "examples": [
+          "The salon uses lasers to zap unwanted hair."
+        ]
+      },
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "To zap something is also to cook or heat it in a microwave: ",
+        "level": "N/A",
+        "examples": [
+          "Do you want that meatloaf cold, or should I zap it?"
+        ]
+      },
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zæp"
+          }
+        ],
+        "definition": "to move something quickly: ",
+        "level": "N/A",
+        "examples": [
+          "You can zap files straight to the printer from a PDA or laptop."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zapped": {
+    "name": "zapped",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "past simple and past participle of \n        \n         zap   informal ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zapper": {
+    "name": "zapper",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzæp.ər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzæp.ɚ"
+          }
+        ],
+        "definition": "a device for controlling a machine from a distance: ",
+        "level": "N/A",
+        "examples": [
+          "Use the zapper to turn off the TV."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzæp.ər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzæp.ɚ"
+          }
+        ],
+        "definition": "a device that kills or gets rid of something, especially by using electricity: ",
+        "level": "N/A",
+        "examples": [
+          "a fly zapper"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zapping": {
+    "name": "zapping",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "present participle of \n        \n         zap   informal ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zappy": {
+    "name": "zappy",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzæp.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzæp.i"
+          }
+        ],
+        "definition": "energetic or fast: ",
+        "level": "N/A",
+        "examples": [
+          "The film begins with a fun, zappy animated title sequence. ",
+          "The kids' educational app is zappy and engaging, and will have your young scholars amused for hours. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zarf": {
+    "name": "zarf",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɑːf"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɑːrf"
+          }
+        ],
+        "definition": "a tube-shaped piece of material that is put around a cup for hot drinks, to stop you burning your fingers when you hold it: ",
+        "level": "N/A",
+        "examples": [
+          "Did you know the cardboard thingy around a coffee cup is called a zarf?"
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɑːf"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɑːrf"
+          }
+        ],
+        "definition": "a decorative object made of metal and with a handle, used for holding a cup for hot drinks : ",
+        "level": "N/A",
+        "examples": [
+          "Because the liquid is so hot, the cup is then placed into a decorative holder called a zarf."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zbb": {
+    "name": "ZBB",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "abbreviation for\n        \n         zero-based budgeting  ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "ze": {
+    "name": "ze",
+    "meanings": [
+      {
+        "word_type": "pronoun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ziː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ziː"
+          }
+        ],
+        "definition": "a personal pronoun sometimes used instead of \"he\" or \"she\" because it does not show a particular gender: ",
+        "level": "N/A",
+        "examples": [
+          "During the registration process at Harvard University, students are now allowed to indicate which pronouns they use, with suggested gender-neutral options like “ze” or “they.”"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zeal": {
+    "name": "zeal",
+    "meanings": [
+      {
+        "word_type": "noun[ S or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ziːl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ziːl"
+          }
+        ],
+        "definition": "great enthusiasm or eagerness: ",
+        "level": "N/A",
+        "examples": [
+          "reforming/missionary/religious zeal",
+          "a zeal for money-making"
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zil"
+          }
+        ],
+        "definition": "great enthusiasm or interest: ",
+        "level": "N/A",
+        "examples": [
+          "religious zeal",
+          "In his zeal to get his work finished on time, he made a lot of mistakes."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zealot": {
+    "name": "zealot",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzel.ət"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzel.ət"
+          }
+        ],
+        "definition": "a person who has very strong opinions about something, and tries to make other people have them too: ",
+        "level": "N/A",
+        "examples": [
+          "a religious zealot"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zealous": {
+    "name": "zealous",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzel.əs"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzel.əs"
+          }
+        ],
+        "definition": "enthusiastic and eager: ",
+        "level": "N/A",
+        "examples": [
+          "a zealous supporter of the government's policies"
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzel·əs"
+          }
+        ],
+        "definition": "enthusiastic and eager: ",
+        "level": "N/A",
+        "examples": [
+          "He thought the reporters were too zealous in their attempts to get into the event."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zealously": {
+    "name": "zealously",
+    "meanings": [
+      {
+        "word_type": "adverb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzel.əs.li"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzel.əs.li"
+          }
+        ],
+        "definition": "in a very enthusiastic and eager way: ",
+        "level": "N/A",
+        "examples": [
+          "Each police department zealously guarded its information.",
+          "Their complaints were zealously investigated."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zealousness": {
+    "name": "zealousness",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzel.əs.nəs"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzel.əs.nəs"
+          }
+        ],
+        "definition": "the quality of being very enthusiastic and eager: ",
+        "level": "N/A",
+        "examples": [
+          "Many people approach green issues with the zealousness of recent converts to a new religion.",
+          "The district attorney's office should be commended for its zealousness and professionalism in handling this case."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zebra": {
+    "name": "zebra",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzeb.rə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.brə"
+          }
+        ],
+        "definition": "an African wild animal that looks like a horse, with black or brown and white lines on its body",
+        "level": "B2",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzi·brə"
+          }
+        ],
+        "definition": "an African wild animal that looks like a horse but has black and white or brown and white lines on its body",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zebra-crossing": {
+    "name": "zebra crossing",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzeb.rə ˈkrɒs.ɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzeb.rə ˈkrɑː.sɪŋ"
+          }
+        ],
+        "definition": "a place on a road, especially one where there is a lot of traffic, across which wide, black and white lines are painted, and at which vehicles must stop to allow people to walk across the road",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zebrawood": {
+    "name": "zebrawood",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzeb.rə.wʊd"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.brə.wʊd"
+          }
+        ],
+        "definition": "a kind of striped wood obtained from several different trees that grow in hot countries, used to make furniture: ",
+        "level": "N/A",
+        "examples": [
+          "The accent wall in the dining room is panelled in zebrawood.",
+          "It took me a year to find someone who made zebrawood furniture. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zebu": {
+    "name": "zebu",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈziː.buː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.buː"
+          }
+        ],
+        "definition": "a type of cow that is often kept in hot countries, with a hump (= a large, round, raised part) on its back",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zed": {
+    "name": "zed",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zed"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zed"
+          }
+        ],
+        "definition": "the last letter of the English alphabet; Z",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zed"
+          }
+        ],
+        "definition": "the last letter of the English alphabet; Z",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zee": {
+    "name": "zee",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ziː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ziː"
+          }
+        ],
+        "definition": "the last letter of the English alphabet; Z: ",
+        "level": "N/A",
+        "examples": [
+          "As far as \"zee vs. zed\" goes, we Canadians still say \"zed.\" "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zeitgeist": {
+    "name": "zeitgeist",
+    "meanings": [
+      {
+        "word_type": "noun[ S ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈtsaɪt.ɡaɪst"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈtsaɪt.ɡaɪst"
+          }
+        ],
+        "definition": "the general set of ideas, beliefs, feelings, etc. that is typical of a particular period in history",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zelig": {
+    "name": "Zelig",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzel.ɪɡ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzel.ɪɡ"
+          }
+        ],
+        "definition": "a person who appears in many different situations and who changes their behaviour or appearance to suit the situation that they are in at the time: ",
+        "level": "N/A",
+        "examples": [
+          "Like Zelig, you never quite know in what role he’s going to pop up next."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zen": {
+    "name": "zen",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zen"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zen"
+          }
+        ],
+        "definition": "relaxed and not worrying about things that you cannot change: ",
+        "level": "N/A",
+        "examples": [
+          "Don't worry about doing the right thing with your baby - be more zen about it and you'll be happier."
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zen"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zen"
+          }
+        ],
+        "definition": "a form of Buddhism, originally developed in Japan, that emphasizes that religious knowledge is achieved through emptying the mind of thoughts and giving attention to only one thing, rather than by reading religious writings: ",
+        "level": "N/A",
+        "examples": [
+          "Zen Buddhism"
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zen"
+          }
+        ],
+        "definition": "a religion that is a form of Buddhism developed in Japan",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zenith": {
+    "name": "zenith",
+    "meanings": [
+      {
+        "word_type": "noun[ C usually singular ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzen.ɪθ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.nɪθ"
+          }
+        ],
+        "definition": "the highest point reached by a heavenly body (= any object existing in space, especially a planet, or the sun) as it travels around, or appears to travel around, another body: ",
+        "level": "N/A",
+        "examples": [
+          "The summer sun was at its zenith in a cloudless sky.",
+          "The sun is well past its zenith when we cross paths with a mini-flotilla."
+        ]
+      },
+      {
+        "word_type": "noun[ C usually singular ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzen.ɪθ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.nɪθ"
+          }
+        ],
+        "definition": "the point in the sky directly above you: ",
+        "level": "N/A",
+        "examples": [
+          "The centre of the map is the zenith (straight overhead). ",
+          "A pall of cloud muffled the whole expanse of sky from zenith to horizon."
+        ]
+      },
+      {
+        "word_type": "noun[ C usually singular ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzen.ɪθ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.nɪθ"
+          }
+        ],
+        "definition": "the best or most successful point or time: ",
+        "level": "N/A",
+        "examples": [
+          "In the 1860s, Tolstoy was at the zenith of his achievement.",
+          "His career reached its zenith in the 1960s."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzi·nəθ"
+          }
+        ],
+        "definition": "the best, highest, or most successful point or time: ",
+        "level": "N/A",
+        "examples": [
+          "Their popularity reached its zenith in the mid-1990s."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zeolite": {
+    "name": "zeolite",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈziː.ə.laɪt"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.ə.laɪt"
+          }
+        ],
+        "definition": "a mineral with a structure that enables it to take in and lose liquid easily. There are many different types of zeolite, and they have many uses in industrial processes. ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zephyr": {
+    "name": "zephyr",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzef.ər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzef.ɚ"
+          }
+        ],
+        "definition": "a light wind",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zeppelin": {
+    "name": "Zeppelin",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzep.əl.ɪn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzep.əl.ɪn"
+          }
+        ],
+        "definition": "a large airship (= an aircraft without wings, containing gas to make it lighter than air, and with an engine)",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zero": {
+    "name": "zero",
+    "meanings": [
+      {
+        "word_type": "number",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ"
+          }
+        ],
+        "definition": "(the number) 0; nothing: ",
+        "level": "N/A",
+        "examples": [
+          "Five, four, three, two, one, zero.",
+          "The number one million is written with a one and six zeros.",
+          "Heavy rain has reduced visibility almost to zero (= its lowest point)."
+        ]
+      },
+      {
+        "word_type": "number",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ"
+          }
+        ],
+        "definition": "on a set of numbers for comparing temperature in degrees Celsius, the level of temperature at which water freezes: ",
+        "level": "N/A",
+        "examples": [
+          "The temperature is expected to drop to ten degrees below zero tonight."
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ"
+          }
+        ],
+        "definition": "nothing or 0 in number: ",
+        "level": "N/A",
+        "examples": [
+          "zero growth/inflation"
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ"
+          }
+        ],
+        "definition": "no or none; used to emphasize that something does not exist: ",
+        "level": "N/A",
+        "examples": [
+          "There's still zero evidence that she was directly involved in the decision.",
+          "The plot twist is stupid and obvious and makes zero sense.",
+          "He said that his chances of getting the job were zero."
+        ]
+      },
+      {
+        "word_type": "number",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪər·oʊˈzi·roʊ"
+          }
+        ],
+        "definition": "0",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪər·oʊˈzi·roʊ"
+          }
+        ],
+        "definition": "nothing; not anything: ",
+        "level": "N/A",
+        "examples": [
+          "Visibility in the fog was just about zero."
+        ]
+      },
+      {
+        "word_type": "adjective[ not gradable ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪər·oʊˈzi·roʊ"
+          }
+        ],
+        "definition": "not any or no: ",
+        "level": "N/A",
+        "examples": [
+          "The economy showed zero growth in the first quarter of this year."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪərəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "the number 0: ",
+        "level": "N/A",
+        "examples": [
+          "They agreed to cut tariffs on 4,000 categories of goods to between zero and 5% by 2013."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪərəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "nothing at all, or the lowest possible amount: ",
+        "level": "N/A",
+        "examples": [
+          "The intent of sustainable business development is to drive outputs of hazardous waste to zero.",
+          "The economic reform packages stirred the economy from zero growth."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪərəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "on a set of numbers for comparing temperature in degrees Celsius, the level of temperature at which water freezes: ",
+        "level": "N/A",
+        "examples": [
+          "The temperature dropped to ten degrees below zero."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪərəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "→ \n        \n         zero coupon bond  ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zero-coupon-bond": {
+    "name": "zero coupon bond",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a type of bond that does not pay interest, but that you buy for less than its face value , so that you make a profit when it is paid back: ",
+        "level": "N/A",
+        "examples": [
+          "Zero coupon bonds are more sensitive to interest rate changes than bonds that pay interest periodically.",
+          "Most zeros are still offering returns of over 8%."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-defects": {
+    "name": "zero defects",
+    "meanings": [
+      {
+        "word_type": "noun[ plural ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a system that tries to make certain that a company's products or services contain no problems that will cause them not to work correctly: ",
+        "level": "N/A",
+        "examples": [
+          "The company makes billions of things with zero defects at a very low cost."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-divisor": {
+    "character": "z"
+  },
+  "zero-gravity": {
+    "name": "zero gravity",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɪə.rəʊ ˈɡræv.ə.ti"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɪr.oʊ ˈɡræv.ə.t̬i"
+          }
+        ],
+        "definition": "the state of being weightless (= not affected by the force that makes things fall to the ground): ",
+        "level": "N/A",
+        "examples": [
+          "The astronauts are slowly adjusting to life in zero gravity.",
+          "This time allows muscles and bones to recover from the effects of zero gravity in space."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-hour": {
+    "name": "zero hour",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ ˌaʊər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ ˌaʊr"
+          }
+        ],
+        "definition": "the time at which something, especially some type of military activity, is planned to begin",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ ˌaʊər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ ˌaʊr"
+          }
+        ],
+        "definition": "in the Indian parliament, the time during which members of parliament can ask questions without arranging to ask them first",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zero-in-on": {
+    "name": "zero in on something/someone",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ"
+          }
+        ],
+        "definition": "to aim a weapon directly at something or someone: ",
+        "level": "N/A",
+        "examples": [
+          "Modern military aircraft use computers to help them zero in on their targets."
+        ]
+      },
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪə.rəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr.oʊ"
+          }
+        ],
+        "definition": "to direct all your attention towards a particular thing: ",
+        "level": "N/A",
+        "examples": [
+          "We must decide on our target market, then zero in on it."
+        ]
+      },
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr·oʊˈzi·roʊ"
+          }
+        ],
+        "definition": "to direct all your attention to one thing: ",
+        "level": "N/A",
+        "examples": [
+          "We’ve zeroed in on the real problem – we don’t save enough money."
+        ]
+      },
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪr·oʊˈzi·roʊ"
+          }
+        ],
+        "definition": "If you zero in a weapon, you aim it directly at something you want to hit: ",
+        "level": "N/A",
+        "examples": [
+          "Computers help the pilots to zero in on their targets."
+        ]
+      },
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪərəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "to direct all your attention towards a particular person or thing: ",
+        "level": "N/A",
+        "examples": [
+          "We must decide on our target market and zero in on it.",
+          "Social media allows you to zero in on consumers who'll be receptive to your messages."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-inflation": {
+    "name": "zero inflation",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a situation in which prices are not rising at all: ",
+        "level": "N/A",
+        "examples": [
+          "The February consumer price index showed zero inflation."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-interest": {
+    "name": "zero interest",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "used to describe a situation in which no money is charged by a bank or other financial organization for lending money: ",
+        "level": "N/A",
+        "examples": [
+          "They offer a period of zero interest for new customers."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-plus-tick": {
+    "name": "zero plus tick",
+    "meanings": [
+      {
+        "word_type": "noun[ S ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "the trading of a share, etc. at the same price as the previous time it traded, but for more than when it was last traded at a lower price: ",
+        "level": "N/A",
+        "examples": [
+          "Short sales can be made only on a zero-plus tick."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-to-hero": {
+    "name": "zero to hero",
+    "meanings": [
+      {
+        "word_type": "idiom",
+        "ipa": [],
+        "definition": "a situation in which someone changes quickly from being unpopular or unsuccessful to being very popular or successful: ",
+        "level": "N/A",
+        "examples": [
+          "Reeve shot from zero to hero in the 1978 blockbuster, Superman.",
+          "He's gone from zero to hero very quickly - he's now an A-list Hollywood star.",
+          "I then did an intensive six-month course in programming known as '\"zero to hero\". "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-tolerance": {
+    "name": "zero tolerance",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɪə.rəʊ ˈtɒl.ər.əns"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɪr.oʊ ˈtɑː.lɚ.əns"
+          }
+        ],
+        "definition": "the act of punishing all criminal or unacceptable behaviour severely, even if it is not very serious: ",
+        "level": "N/A",
+        "examples": [
+          "The police are exercising a new policy of zero tolerance against motoring offenders."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-uptick": {
+    "name": "zero uptick",
+    "meanings": [
+      {
+        "word_type": "noun[ S ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "→ \n        \n         zero plus tick  ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zero-vector": {
+    "character": "z"
+  },
+  "zero-waste": {
+    "name": "zero waste",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɪə.rəʊ ˈweɪst"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɪr.oʊ ˈweɪst"
+          }
+        ],
+        "definition": "a situation in which no waste material is produced: ",
+        "level": "N/A",
+        "examples": [
+          "They set three groundbreaking goals: to switch the entire group to using renewable energy, to achieve zero waste and to sell sustainable products."
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɪə.rəʊˈweɪst"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɪr.oʊˈweɪst"
+          }
+        ],
+        "definition": "not producing any waste material: ",
+        "level": "N/A",
+        "examples": [
+          "A new zero-waste supermarket has opened, selling food and household products without packaging.",
+          "I produce most of my own electricity renewably, supply a great deal of my own water and have an almost zero-waste lifestyle. ",
+          "Seattle is embracing a \"zero waste\" strategy to cut dramatically the amount of rubbish going to landfills. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-based-budgeting": {
+    "name": "zero-based budgeting",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a method for business budgets in which all costs are considered again each year, and each department must say why it needs the amount it asks for: ",
+        "level": "N/A",
+        "examples": [
+          "Zero-based budgeting asks managers to examine the services they are required to deliver and then build up their cost structure from scratch."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-carbon": {
+    "name": "zero-carbon",
+    "meanings": [
+      {
+        "word_type": "adjective[ before noun ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɪə.rəʊˈkɑː.bən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɪr.oʊˈkɑːr.bən"
+          }
+        ],
+        "definition": "A zero-carbon building, activity, business, etc., is one that does not cause any carbon dioxide to be added to the atmosphere",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zero-hours-contract": {
+    "name": "zero-hours contract",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɪə.rəʊ.aʊəz ˈkɒn.trækt"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɪr.oʊ.aʊrz ˈkɑːn.trækt"
+          }
+        ],
+        "definition": "an agreement under which an employer can change the number of hours worked by an employee, and does not have to offer any hours: ",
+        "level": "N/A",
+        "examples": [
+          "Thousands of workers in the UK are on zero-hours contracts."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-percent": {
+    "name": "zero-percent",
+    "meanings": [
+      {
+        "word_type": "adjective[ before noun ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "used to describe a loan that does not need the payment of any interest: ",
+        "level": "N/A",
+        "examples": [
+          "Car dealerships enjoyed a record-breaking month, thanks to zero-percent financing deals."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-rated": {
+    "name": "zero-rated",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "relating to goods and services on which no sales tax is paid when they are bought: ",
+        "level": "N/A",
+        "examples": [
+          "Donated goods are zero-rated for VAT purposes."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-sum": {
+    "name": "zero-sum",
+    "meanings": [
+      {
+        "word_type": "adjective[ before noun ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɪə.rəʊˈsʌm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɪr.oʊˈsʌm"
+          }
+        ],
+        "definition": "used to refer to a situation in which any win by one person always means a loss to another person involved: ",
+        "level": "N/A",
+        "examples": [
+          "The stock market is now a zero-sum game, in which one party gains what the other loses."
+        ]
+      },
+      {
+        "word_type": "adjective[ not gradable ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪər·oʊ ˌsʌmˈzi·roʊ"
+          }
+        ],
+        "definition": "having a result in which one person loses as much as another benefits",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "relating to a situation in which an advantage that is won by one of two sides is lost by the other: ",
+        "level": "N/A",
+        "examples": [
+          "This is a zero-sum gain involving redistribution of wealth."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zero-sum-game": {
+    "name": "zero-sum game",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a situation in which an advantage that is won by one of two sides is lost by the other: ",
+        "level": "N/A",
+        "examples": [
+          "Free trade benefits everyone in the end because trade is never a zero-sum game."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zeroth-law-of-thermodynamics": {
+    "character": "z"
+  },
+  "zest": {
+    "name": "zest",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zest"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zest"
+          }
+        ],
+        "definition": "enthusiasm, eagerness, energy, and interest: ",
+        "level": "N/A",
+        "examples": [
+          "It's wonderful to see the children's zest for life.",
+          "He approached every task with a boundless zest.",
+          "The recording captures the zest of this live concert performance."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zest"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zest"
+          }
+        ],
+        "definition": "the skin of an orange, lemon, or lime, used to add flavour to food: ",
+        "level": "N/A",
+        "examples": [
+          "grated lemon zest"
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zest"
+          }
+        ],
+        "definition": "enthusiasm and energy: ",
+        "level": "N/A",
+        "examples": [
+          "She’s over 80, but she still has an amazing zest for life."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zester": {
+    "name": "zester",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzes.tər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzes.tɚ"
+          }
+        ],
+        "definition": "a kitchen tool that is held in the hand and used to remove very small parts of the skin of lemons or other similar fruits: ",
+        "level": "N/A",
+        "examples": [
+          "She scraped off the lemon and lime rind with a zester to make a citrus-flavoured syrup. ",
+          "Zesters aren't just for lemons - they are ideal for oranges, limes, and grapefruit too."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zestful": {
+    "name": "zestful",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzest.fəl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzest.fəl"
+          }
+        ],
+        "definition": "full of energy and enthusiasm: ",
+        "level": "N/A",
+        "examples": [
+          "Her zestful performance made the film very successful.",
+          "They symbolized zestful youth."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zestfully": {
+    "name": "zestfully",
+    "meanings": [
+      {
+        "word_type": "adverb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzest.fəl.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzest.fəl.i"
+          }
+        ],
+        "definition": "in a way that is full of energy and enthusiasm: ",
+        "level": "N/A",
+        "examples": [
+          "He plunges zestfully into editorial projects that interest him.",
+          "She lived so long and so zestfully that many of her grandchildren and great-grandchildren believed she was immortal. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zestily": {
+    "name": "zestily",
+    "meanings": [
+      {
+        "word_type": "adverb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzes.təl.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzes.təl.i"
+          }
+        ],
+        "definition": "in a way that shows a lot of energy and enthusiasm: ",
+        "level": "N/A",
+        "examples": [
+          "The lively stage show includes a number of zestily choreographed dance sequences. ",
+          "All of her books have tight, zestily entertaining plots, and characters shaped by clever dialogue. "
+        ]
+      },
+      {
+        "word_type": "adverb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzes.təl.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzes.təl.i"
+          }
+        ],
+        "definition": "with a lot of flavour : ",
+        "level": "N/A",
+        "examples": [
+          "The steak was zestily seasoned and paired well with the wine. ",
+          "I like everything on the restaurant's menu, but my favourite dish might be the zestily decadent fried chicken sandwich. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zesty": {
+    "name": "zesty",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzes.ti"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzes.ti"
+          }
+        ],
+        "definition": "full of flavour: ",
+        "level": "N/A",
+        "examples": [
+          "a zesty tomato sauce"
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzes.ti"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzes.ti"
+          }
+        ],
+        "definition": "full of energy and enthusiasm: ",
+        "level": "N/A",
+        "examples": [
+          "a zesty new musical"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zeta": {
+    "name": "zeta",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈziː.tə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzeɪ.t̬ə"
+          }
+        ],
+        "definition": "the sixth letter of the Greek alphabet",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zetland": {
+    "name": "Zetland",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzet.lənd"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzet.lənd"
+          }
+        ],
+        "definition": "an old name for \n        \n         Shetland   that was its official name when it was a county (= an area with its own local government) before 1975: ",
+        "level": "N/A",
+        "examples": [
+          "Until 1974, Shetland was officially known as Zetland."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zeugma": {
+    "name": "zeugma",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzjuːɡ.mə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuːɡ.mə"
+          }
+        ],
+        "definition": "a use of language in which a word that has more than one meaning is used with one meaning in one part of a sentence and with a different meaning in another part of the sentence, usually in order to produce a humorous effect: ",
+        "level": "N/A",
+        "examples": [
+          "\"She filed her nails and then she filed a complaint against her boss\" is an example of the figure of speech known as zeugma. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zeus": {
+    "name": "Zeus",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zjuːs"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːs"
+          }
+        ],
+        "definition": "in Greek mythology (= ancient stories), the greatest of the gods, the god of the sky and the weather, who ruled over human beings and the other gods: ",
+        "level": "N/A",
+        "examples": [
+          "Before Zeus hurled his first thunderbolt from Olympus, the pre-Greek people occupying the land presumably offered sacrifices to their own gods and goddesses."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zhoug": {
+    "name": "zhoug",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ʒuːɡ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ʒuːɡ"
+          }
+        ],
+        "definition": "a spicy sauce containing chillies: ",
+        "level": "N/A",
+        "examples": [
+          "Yemenites believe that daily consumption of zhoug wards off disease and strengthens the heart."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zhuzh": {
+    "name": "zhuzh",
+    "meanings": [
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ʒʊʒ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ʒʊʒ"
+          }
+        ],
+        "definition": "to make something more interesting or attractive by changing it slightly or adding something to it: ",
+        "level": "N/A",
+        "examples": [
+          "The stylist said he would zhuzh up the outfit with a hat.",
+          "I zhoozhed my cushions to make the place cosy for Brad.",
+          "This no-cook, no-fuss side dish is served with flatbread, and cream cheese zhoosed up with orange zest and mustard."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zidovudine": {
+    "name": "zidovudine",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪˈdɒv.jə.diːn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪˈdɑːv.jəˌdiːn"
+          }
+        ],
+        "definition": "a drug used to slow down the development of HIV infections in the treatment of AIDS: ",
+        "level": "N/A",
+        "examples": [
+          "Zidovudine may be used on its own to treat pregnant women infected with HIV."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "ziggurat": {
+    "name": "ziggurat",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪɡ.ə.ræt"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪɡ.ə.ræt"
+          }
+        ],
+        "definition": "a large rectangular structure with several levels of different sizes and steps leading up it, built in ancient times, especially in what is now Iraq, and usually forming part of a temple (= a religious building): ",
+        "level": "N/A",
+        "examples": [
+          "Susa is the site of the world's best preserved ziggurat. ",
+          "Excavations of the site have revealed a great ziggurat."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zigzag": {
+    "name": "zigzag",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          }
+        ],
+        "definition": "a line or pattern that looks like a Z or a row of Zs joined together: ",
+        "level": "N/A",
+        "examples": [
+          "a zigzag path/road/coastline",
+          "a fabric with a zigzag pattern",
+          "The kids ran in zigzags around the playground."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          }
+        ],
+        "definition": "a situation in which actions, plans, or ideas change suddenly and completely, and then change back again equally suddenly: ",
+        "level": "N/A",
+        "examples": [
+          "The Washington Post complained of \"two weeks of policy zigzags\".",
+          "The country seems to have been following a zigzag course between democracy and dictatorship."
+        ]
+      },
+      {
+        "word_type": "verb[ I ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          }
+        ],
+        "definition": "to make a movement or shape like a zigzag: ",
+        "level": "N/A",
+        "examples": [
+          "The road zigzags along a rocky coastline."
+        ]
+      },
+      {
+        "word_type": "verb[ I ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪɡ.zæɡ"
+          }
+        ],
+        "definition": "to change suddenly and completely, and then change back again equally suddenly: ",
+        "level": "N/A",
+        "examples": [
+          "The market zigzagged during the day but finished higher in the afternoon."
+        ]
+      },
+      {
+        "word_type": "verb[ I ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪɡ·zæɡ"
+          }
+        ],
+        "definition": "to move by going first in one direction and then in a different direction, and continuing in this way: ",
+        "level": "N/A",
+        "examples": [
+          "We zigzagged through the crowds of tourists in the museum."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zigzagged": {
+    "name": "zigzagged",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "past simple and past participle of \n        \n         zigzag   ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zigzagging": {
+    "name": "zigzagging",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "present participle of \n        \n         zigzag   ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zika": {
+    "name": "Zika",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈziː.kə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.kə"
+          }
+        ],
+        "definition": "a virus carried by mosquitoes that may be connected with birth defects such as microcephaly (= having an abnormally small head), if a pregnant woman is infected: ",
+        "level": "N/A",
+        "examples": [
+          "The Zika virus, spread by mosquitoes, produces an itchy rash, pinkeye, joint pain and fever."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zilch": {
+    "name": "zilch",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪltʃ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪltʃ"
+          }
+        ],
+        "definition": "nothing; none; no: ",
+        "level": "N/A",
+        "examples": [
+          "\"How many points did you score?\" \"Zilch.\""
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zɪltʃ"
+          }
+        ],
+        "definition": "nothing: ",
+        "level": "N/A",
+        "examples": [
+          "Tom knew zilch about sports."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zillion": {
+    "name": "zillion",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪl.jən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪl.jən"
+          }
+        ],
+        "definition": "an extremely large, but not an exact, number: ",
+        "level": "N/A",
+        "examples": [
+          "I've told you a zillion times/zillions of times not to do that."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪl·jən"
+          }
+        ],
+        "definition": "an extremely large number or amount: ",
+        "level": "N/A",
+        "examples": [
+          "There were zillions of people to help you, all the time."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zimbabwe": {
+    "name": "Zimbabwe",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪmˈbɑːb.weɪ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪmˈbɑːb.weɪ"
+          }
+        ],
+        "definition": "a country in Southern Africa",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zimbabwean": {
+    "name": "Zimbabwean",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪmˈbɑːb.wi.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪmˈbɑːb.wi.ən"
+          }
+        ],
+        "definition": "belonging to or relating to Zimbabwe or its people",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪmˈbɑːb.wi.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪmˈbɑːb.wi.ən"
+          }
+        ],
+        "definition": "a person from Zimbabwe",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zimmer-frame": {
+    "name": "Zimmer frame",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪm.ə ˌfreɪm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪm.ɚ ˌfreɪm"
+          }
+        ],
+        "definition": "a brand name for a metal frame with four legs that you place in front of you and lean on to help you move forward if you have difficulty in walking, for example when old",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zinc": {
+    "name": "zinc",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪŋk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪŋk"
+          }
+        ],
+        "definition": "a chemical element that is a bluish-white metal, used in making other metals or for covering other metals to protect them",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zɪŋk"
+          }
+        ],
+        "definition": "a blue-white metal used esp. in combination with other metals or for covering other metals to protect them",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪŋk"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a blue-white metal used to make alloys (= combinations of metals) or for covering other metals to protect them",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zinc-oxide": {
+    "character": "z"
+  },
+  "zine": {
+    "name": "zine",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ziːn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ziːn"
+          }
+        ],
+        "definition": "a small magazine that is produced cheaply by one person or a small group of people, and is about a subject they are interested in",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zinfandel": {
+    "name": "zinfandel",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪn.fən.del"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪn.fən.del"
+          }
+        ],
+        "definition": "a dry red wine made in California, or the grapes that it comes from",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C/U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪn·fənˌdel"
+          }
+        ],
+        "definition": "a dry, red wine made in California, or the grapes that it comes from",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zing": {
+    "name": "zing",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪŋ"
+          }
+        ],
+        "definition": "a quality that makes something interesting or exciting; enthusiasm or energy: ",
+        "level": "N/A",
+        "examples": [
+          "We want to put more zing into our advertising.",
+          "A bit of lemon juice will add zing to the sauce."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zinger": {
+    "name": "zinger",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪŋ.ər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪŋ.ɚ"
+          }
+        ],
+        "definition": "a funny or clever remark: ",
+        "level": "N/A",
+        "examples": [
+          "His humor gives him the ability to deliver a zinger."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zingy": {
+    "name": "zingy",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪŋ.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪŋ.i"
+          }
+        ],
+        "definition": "interesting and exciting",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zinnia": {
+    "name": "zinnia",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪn.i.ə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪn.i.ə"
+          }
+        ],
+        "definition": "a garden plant with brightly coloured flowers that grows wild in hot areas of North and South America: ",
+        "level": "N/A",
+        "examples": [
+          "Sow zinnias directly where they are to flower, as their roots hate being disturbed.",
+          "They grow marigolds, zinnias, and other annuals from seed."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zion": {
+    "name": "Zion",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.ən"
+          }
+        ],
+        "definition": "the hill on which the city of Jerusalem was originally built, sometimes used to refer to the city itself: ",
+        "level": "N/A",
+        "examples": [
+          "the slopes of Zion"
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.ən"
+          }
+        ],
+        "definition": "the Jewish people or religion: ",
+        "level": "N/A",
+        "examples": [
+          "the elders of Zion"
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.ən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.ən"
+          }
+        ],
+        "definition": "(in the Christian religion) heaven",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zion-national-park": {
+    "name": "Zion National Park",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzaɪ.ən ˌnæʃ.ən.əl ˈpɑːk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzaɪ.ən ˌnæʃ.ən.əl ˈpɑːrk"
+          }
+        ],
+        "definition": "a national park (= a large area of land protected by the government because of its natural beauty or because it has a special history) in the US state of Utah: ",
+        "level": "N/A",
+        "examples": [
+          "Zion National Park is located on State Route 9 in southwest Utah.",
+          "The scenery along the way is rarely short of spectacular, with views that stretch south to encompass all of Zion National Park."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zionism": {
+    "name": "Zionism",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.ə.nɪ.zəm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.ə.nɪ.zəm"
+          }
+        ],
+        "definition": "a political movement that had as its original aim the creation of a country for Jewish people, and that now supports the state of Israel",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑɪ·əˌnɪz·əm"
+          }
+        ],
+        "definition": "an international political and religious movement that supported establishing an independent Jewish state in Palestine and that supports the modern state of Israel",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zionist": {
+    "name": "Zionist",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.ə.nɪst"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.ə.nɪst"
+          }
+        ],
+        "definition": "someone who belongs to or supports a political movement that had as its original aim the creation of a country for Jewish people, and that now supports the state of Israel: ",
+        "level": "N/A",
+        "examples": [
+          "My father, who was a Zionist, told my mother on his deathbed to take the family to Israel."
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.ə.nɪst"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.ə.nɪst"
+          }
+        ],
+        "definition": "supporting, belonging to, or relating to a political movement that had as its original aim the creation of a country for Jewish people, and that now supports the state of Israel: ",
+        "level": "N/A",
+        "examples": [
+          "The two men had belonged to the same Zionist group at Vienna University. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip": {
+    "name": "zip",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "a device consisting of two rows of metal or plastic teeth-like parts that are brought together by pulling a small sliding piece over them, used for closing openings in clothing, bags, etc.: ",
+        "level": "N/A",
+        "examples": [
+          "to do up/undo a zip",
+          "I can't open my bag - the zip has stuck."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "energy or speed: ",
+        "level": "N/A",
+        "examples": [
+          "The new engine has given the car a lot more zip."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "nothing: ",
+        "level": "N/A",
+        "examples": [
+          "I know zip about computers.",
+          "The Dolphins are leading the Giants fourteen to zip (= by fourteen points to nothing)."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "to fasten something with a zip: ",
+        "level": "N/A",
+        "examples": [
+          "This bag's too full, I can't zip it shut.",
+          "This dress zips (up) at the back.",
+          "Zip your coat up, it's cold outside."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "to move or go somewhere very quickly: ",
+        "level": "N/A",
+        "examples": [
+          "I'm just going to zip over to the shops - I won't be long.",
+          "We were about to cross the road when a car suddenly zipped past."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "to compress (= reduce the size of) a computer file so that it uses less space, and can be more easily sent or stored: ",
+        "level": "N/A",
+        "examples": [
+          "Zip the files before you email them."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "to fasten a bag, clothing, etc. with a zipper: ",
+        "level": "N/A",
+        "examples": [
+          "I’ve got so much stuff in this bag, I can’t zip it shut.",
+          "You have to help the kids zip their coats up."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "to travel very fast: ",
+        "level": "N/A",
+        "examples": [
+          "Messengers on bicycles zipped fearlessly through the capital’s traffic."
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "something that creates a feeling of energy or excitement: ",
+        "level": "N/A",
+        "examples": [
+          "Add pepper to give a little zip to the sauce."
+        ]
+      },
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "to reduce the size of a computer file so that it uses less space, and can be more easily sent or stored: ",
+        "level": "N/A",
+        "examples": [
+          "If you zip the file, it makes it easier to send."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-code": {
+    "name": "zip code",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp ˌkəʊd"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌkoʊd"
+          }
+        ],
+        "definition": "in the US, a series of numbers that forms part of an address, used to help organize post so that it can be delivered more quickly",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌkoʊd"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌkoʊd"
+          }
+        ],
+        "definition": "a series of numbers that forms part of an address in the US and is used to help organize mail for delivery",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a short series of numbers that is part of an address, and shows where a place is: ",
+        "level": "N/A",
+        "examples": [
+          "legislation targets the neediest areas by zip codes."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-drive": {
+    "name": "Zip drive",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp ˌdraɪv"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌdraɪv"
+          }
+        ],
+        "definition": "a brand name for a part of a computer used for copying large documents onto special disks",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zip-file": {
+    "name": "zip file",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp ˌfaɪl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌfaɪl"
+          }
+        ],
+        "definition": "a computer file that has been compressed (= reduced in size) so that it uses up less space",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": ""
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a computer file that has been reduced in size, so that it uses less space, and can be more easily sent or stored: ",
+        "level": "N/A",
+        "examples": [
+          "The zip file can be downloaded from our website."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-it": {
+    "name": "zip it",
+    "meanings": [
+      {
+        "word_type": "idiom",
+        "ipa": [],
+        "definition": "a rude and angry way of telling someone to stop talking: ",
+        "level": "N/A",
+        "examples": [
+          "Just zip it - I'm tired of listening to you complain."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-line": {
+    "name": "zip line",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp ˌlaɪn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌlaɪn"
+          }
+        ],
+        "definition": "a long thick wire attached between two points, one higher than the other, that you can move along quickly while hanging from a small wheel, as entertainment or as a way of travelling above and across something: ",
+        "level": "N/A",
+        "examples": [
+          "The elevated zip line will take guests on a 50-mph ride across the forest canopy.",
+          "I hit the end of the zipline and forgot to grab on to the end ropes quick enough."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-up": {
+    "name": "zip something/someone up",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪp"
+          }
+        ],
+        "definition": "to fasten a piece of clothing by using its zip, or to help someone close the zip on a piece of clothing they are wearing: ",
+        "level": "N/A",
+        "examples": [
+          "Could you zip me up, please?",
+          "Zip up your jacket, it's cold out there."
+        ]
+      },
+      {
+        "word_type": "adjective[ before noun ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp.ʌp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp.ʌp"
+          }
+        ],
+        "definition": "fastened with a zip (= a device consisting of two rows of metal or plastic teeth-like parts that are brought together by pulling a small sliding piece over them): ",
+        "level": "N/A",
+        "examples": [
+          "She was dressed informally in a zip-up top and jeans.",
+          "He was wearing a blue zipup jacket, dark trousers, and brown shoes.",
+          "Each item came in a separate zip-up plastic bag."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp.ʌp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp.ʌp"
+          }
+        ],
+        "definition": "a piece of clothing worn on the top half of the body that is fastened with a zip (= a device consisting of two rows of metal or plastic teeth-like parts that are brought together by pulling a small sliding piece over them): ",
+        "level": "N/A",
+        "examples": [
+          "In the picture he's wearing a green zip-up.",
+          "A pullover hoodie can be warmer than a zipup but it is less flexible in outfits.",
+          "A zip-up can even be worn as a jacket on some occasions."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-tie": {
+    "name": "zip tie",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp ˌtaɪ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌtaɪ"
+          }
+        ],
+        "definition": "a narrow piece of plastic that can be pulled tight and fastened, used for attaching things or tying things, for example electric cables (= wires), together: ",
+        "level": "N/A",
+        "examples": [
+          "Keep your cables together with a zip tie.",
+          "Gather up the corners of the top cloth and secure it closed with a zip tie.",
+          "It's very difficult to undo a zip-tie without damaging it or cutting the cables."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-wire": {
+    "name": "zip wire",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp ˌwaɪər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp ˌwaɪr"
+          }
+        ],
+        "definition": "a long thick wire attached between two points, one higher than the other, that you can move along quickly while hanging from a small wheel, as entertainment or as a way of travelling above and across something: ",
+        "level": "N/A",
+        "examples": [
+          "Activities include archery, zip wire, and abseiling.",
+          "It's a complicated set-up of zip wires called Sky Trek."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zip-your-lip": {
+    "name": "zip your lip",
+    "meanings": [
+      {
+        "word_type": "idiom",
+        "ipa": [],
+        "definition": "to say nothing or stop talking: ",
+        "level": "N/A",
+        "examples": [
+          "He's the sort of man who rarely bothers to zip his lip.",
+          "The sulker does not dare let her hostile feelings out. So she zips her lips."
+        ]
+      },
+      {
+        "word_type": "idiom",
+        "ipa": [],
+        "definition": "to say nothing or stop talking: ",
+        "level": "N/A",
+        "examples": [
+          "He's the sort of man who rarely bothers to zip his lip.",
+          "Shut up George! Zip your lip!",
+          "The sulker does not dare let her hostile feelings out. So she zips her lips."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "ziplining": {
+    "name": "ziplining",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp.laɪ.nɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp.laɪ.nɪŋ"
+          }
+        ],
+        "definition": "the act of sliding down a zip line (= a long thick wire attached between two points, one higher than the other, that you can move along quickly while hanging from a small wheel), as entertainment or as a way of travelling above and across something: ",
+        "level": "N/A",
+        "examples": [
+          "Her two children engage in hiking, biking, rafting, ziplining, and just about everything that looks fun and adventurous.",
+          "Zip-lining - cruising in a pulley hanging from a steel cable - is still popular among businesses trying to foster group morale."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "ziploc": {
+    "name": "Ziploc",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp.lɒk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp.lɑːk"
+          }
+        ],
+        "definition": "a brand name for a type of plastic bag that can be closed firmly by pressing the two edges at the top together, and opened by pulling them apart: ",
+        "level": "N/A",
+        "examples": [
+          "a Ziploc bag"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zipped": {
+    "name": "zipped",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "past simple and past participle of \n        \n         zip   ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zipper": {
+    "name": "zipper",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp.ər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp.ɚ"
+          }
+        ],
+        "definition": "a device consisting of two rows of metal or plastic teeth-like parts that are brought together by pulling a small sliding piece over them, used for closing openings in clothing, bags, etc.: ",
+        "level": "B2",
+        "examples": [
+          "to pull a zipper up/down",
+          "I can't open my bag - the zipper is stuck."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp·ər"
+          }
+        ],
+        "definition": "a device for fastening together an opening in clothes, bags, etc., and consisting of two rows of little metal or plastic parts that can be locked together by sliding another part over them",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zipping": {
+    "name": "zipping",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "present participle of \n        \n         zip   ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zippy": {
+    "name": "zippy",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪp.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪp.i"
+          }
+        ],
+        "definition": "energetic or fast: ",
+        "level": "N/A",
+        "examples": [
+          "a zippy car",
+          "a zippy performance"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zircon": {
+    "name": "zircon",
+    "meanings": [
+      {
+        "word_type": "noun[ U or C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɜː.kɒn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɜ˞ː.kɑːn"
+          }
+        ],
+        "definition": "a mineral in the form of crystals (= regular shapes) from which the chemical element zirconium is obtained: ",
+        "level": "N/A",
+        "examples": [
+          "A tiny crystal of zircon found in northwestern Australia is estimated to be about 4.3 billion years old.",
+          "Zircons, made primarily of the elements zirconium, oxygen and silicon, are extremely hard and durable."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zirconium": {
+    "name": "zirconium",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɜːˈkəʊ.ni.əm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɚˈkoʊ.ni.əm"
+          }
+        ],
+        "definition": "a chemical element that is a hard, silver-grey metal",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zit": {
+    "name": "zit",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɪt"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɪt"
+          }
+        ],
+        "definition": "a \n        \n         pimple  ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zither": {
+    "name": "zither",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɪð.ər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɪð.ɚ"
+          }
+        ],
+        "definition": "a musical instrument shaped like a flat box, with many strings stretched across it that you pull at with your fingers or with a small piece of plastic",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "ziti": {
+    "name": "ziti",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈziː.ti"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈziː.t̬i"
+          }
+        ],
+        "definition": "long tubes of pasta, or a dish consisting of this pasta, baked with a tomato and meat sauce: ",
+        "level": "N/A",
+        "examples": [
+          "My number one comfort food is baked ziti.",
+          "Like every good Italian American, I can make a great lasagne and ziti."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zloty": {
+    "name": "zloty",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzlɒt.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzlɑː.t̬i"
+          }
+        ],
+        "definition": "the standard unit of money used in Poland",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zodiac": {
+    "name": "zodiac",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzəʊ.di.æk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊ.di.æk"
+          }
+        ],
+        "definition": "a circular drawing representing the zodiac",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C/U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊd·iˌæk"
+          }
+        ],
+        "definition": "an area of the sky in which the positions of the sun, moon, stars, and planets are believed in astrology to influence human behavior, and which is divided into twelve equal sections",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zodiacal": {
+    "name": "zodiacal",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊˈdaɪ.ə.kəl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊˈdaɪ.ə.kəl"
+          }
+        ],
+        "definition": "relating to an area of the sky through which the sun, moon, and most of the planets appear to move, divided into twelve equal parts, each with a name and symbol, and each connected with an exact time of year: ",
+        "level": "N/A",
+        "examples": [
+          "She was born under the zodiacal sign of Cancer.",
+          "Leo is one of the brightest of the zodiacal constellations. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoetrope": {
+    "name": "zoetrope",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzəʊ.i.trəʊp"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊ.i.troʊp"
+          }
+        ],
+        "definition": "a device used in the past consisting of a cylinder with slits (= long, narrow holes) cut in it and a series of images drawn on the inside. When the cylinder is turned, a person looking through the slits sees the images appear to move. : ",
+        "level": "N/A",
+        "examples": [
+          "The museum also has a zoetrope, which reveals a series of moving images as the drum revolves."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zombie": {
+    "name": "zombie",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɒm.bi"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑːm.bi"
+          }
+        ],
+        "definition": "(in stories) a frightening creature that is a dead person who has been brought back to life, but without human qualities. Zombies are not able to think and they are often shown as attacking and eating human beings: ",
+        "level": "N/A",
+        "examples": [
+          "Every horror fan is probably familiar with many zombie movies."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɒm.bi"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑːm.bi"
+          }
+        ],
+        "definition": "a dead person who is believed, in some Caribbean religions, to have been brought back to life by magic",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɒm.bi"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑːm.bi"
+          }
+        ],
+        "definition": "a person who has no energy, seems to act without thinking, and does not notice what is happening: ",
+        "level": "N/A",
+        "examples": [
+          "He's just a zombie sitting in front of the TV all day."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑm·bi"
+          }
+        ],
+        "definition": "someone who moves around as if unconscious and being controlled by someone else: ",
+        "level": "N/A",
+        "examples": [
+          "I was so tired, I walked around like a zombie."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑm·bi"
+          }
+        ],
+        "definition": "(in stories, movies, etc.) A zombie is a dead person brought back to life without the ability to speak or move easily.",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zombie-company": {
+    "name": "zombie company",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɒm.bi ˈkʌm.pə.ni"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑːm.bi ˌkʌm.pə.ni"
+          }
+        ],
+        "definition": "a business company that is failing and that is worth less than the amount of money it owes: ",
+        "level": "N/A",
+        "examples": [
+          "These were zombie companies, which were never going to repay their debts but could still count on regular transfusions of bank loans."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zonal": {
+    "name": "zonal",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzəʊ.nəl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊ.nəl"
+          }
+        ],
+        "definition": "relating to or arranged in zones: ",
+        "level": "N/A",
+        "examples": [
+          "zonal boundaries/divisions"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zonal-marking": {
+    "name": "zonal marking",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzəʊ.nəl ˈmɑː.kɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzoʊ.nəl ˈmɑːr.kɪŋ"
+          }
+        ],
+        "definition": "in football, a system of defending in which each player is responsible for defending an area of the pitch rather than an opposing player",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zonally": {
+    "name": "zonally",
+    "meanings": [
+      {
+        "word_type": "adverb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzəʊ.nəl.i"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊ.nəl.i"
+          }
+        ],
+        "definition": "involving or relating to zones (= areas that are different in some way to the ones around them): ",
+        "level": "N/A",
+        "examples": [
+          "The Paraguayan team knows how to play zonally, with one player supporting another and nobody playing on his own.",
+          "zonally classified rates of rainfall"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zone": {
+    "name": "zone",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "an area, especially one that is different from the areas around it because it has different characteristics or is used for different purposes: ",
+        "level": "N/A",
+        "examples": [
+          "an earthquake zone",
+          "a nuclear-free zone",
+          "He was charged with driving at 75 mph in a 55 mph zone.",
+          "This stretch of coast has been designated a danger zone.",
+          "The UN Security Council has established a no-fly zone (= one where aircraft are not permitted to fly)."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "one of the five parts the earth is divided into according to temperature, marked by imaginary lines going around it from east to west: ",
+        "level": "N/A",
+        "examples": [
+          "temperate zones"
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "in basketball, American football, and some other sports, a system of defending in which each player is responsible for defending an area rather than an opposing player: ",
+        "level": "N/A",
+        "examples": [
+          "They have been working on playing zone when it is too difficult to cover a fast opponent one one one. ",
+          "Their opponents are almost guaranteed to play a lot of zone."
+        ]
+      },
+      {
+        "word_type": "verb[ T usually passive ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "to give a special purpose to a particular area, such as an area in a town: ",
+        "level": "N/A",
+        "examples": [
+          "The former dockyard has been zoned for industrial use."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "an area, esp. one that has different characteristics from the ones around it or is used for different purposes: ",
+        "level": "N/A",
+        "examples": [
+          "a construction/work/flood/combat/war zone",
+          "He was charged with driving 75 mph in a 55 mph zone."
+        ]
+      },
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "to set rules for the use of land or for the types of structures that can be built on it: ",
+        "level": "N/A",
+        "examples": [
+          "The land is now zoned for single-family homes on two-acre plots.",
+          "This area was originally zoned commercial."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "an area, especially one that is different from the areas around it, because it has different characteristics or is used for different purposes: ",
+        "level": "N/A",
+        "examples": [
+          "a danger/safety zone",
+          "a construction/no-parking/nuclear-free zone"
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "one of the areas into which a larger area is divided for a particular purpose: ",
+        "level": "N/A",
+        "examples": [
+          "Most bus fares in the borough are to rise by 43%, while tube users in zone 1 will see an increase of 25%.",
+          "The car was going faster than 60 mph in a 40-mph zone.",
+          "New technology makes it much cheaper to determine whether a vehicle is in a charging zone."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "an area of a city that is used for a particular purpose or activity: ",
+        "level": "N/A",
+        "examples": [
+          "Trucks are permitted within a 20-25 mile commercial zone where they drop off their trailers."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "a geographical region or group of countries that share a particular system, law, etc.: ",
+        "level": "N/A",
+        "examples": [
+          "customs-free/passport-free zones",
+          "Next to the airport is a special economic zone, an enclave of relative economic freedom designed to attract investors.",
+          "External exchange rates matter less in a single currency zone of such size."
+        ]
+      },
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "to give a special purpose to a particular area, such as an area in a town: ",
+        "level": "N/A",
+        "examples": [
+          "The acreage includes land zoned for commercial usage."
+        ]
+      },
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "to divide an area of land into different smaller areas: ",
+        "level": "N/A",
+        "examples": [
+          "They will have to zone a sufficient amount of land to meet housing needs."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zone-defense": {
+    "name": "zone defense",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzəʊn dɪˌfens"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊn dɪˌfens"
+          }
+        ],
+        "definition": "in basketball, American football, and some other sports, a system of defending in which each player is responsible for defending an area rather than an opposing player : ",
+        "level": "N/A",
+        "examples": [
+          "They had more success using a zone defense than trying to cover the other team's receivers one on one. ",
+          "The basketball team started winning more games after they learned to play zone defense. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zone-out": {
+    "name": "zone out",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "to stop paying attention and not hear or see what is around you for a short period of time : ",
+        "level": "N/A",
+        "examples": [
+          "When the men start talking about football, I just zone out."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoned": {
+    "name": "zoned",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "past simple and past participle of \n        \n         zone  ",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "verb[ T usually passive ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊn"
+          }
+        ],
+        "definition": "to give a special purpose to a particular area, such as an area in a town: ",
+        "level": "N/A",
+        "examples": [
+          "The former dockyard has been zoned for industrial use."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoning": {
+    "name": "zoning",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzəʊ.nɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊ.nɪŋ"
+          }
+        ],
+        "definition": "the act of deciding, or the decision that has been taken about, what particular use an area should have: ",
+        "level": "N/A",
+        "examples": [
+          "zoning laws"
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzoʊ·nɪŋ"
+          }
+        ],
+        "definition": "the act of setting rules for the use of land and the types of structures that can be built on it: ",
+        "level": "N/A",
+        "examples": [
+          "The town’s new zoning establishes a height limit of eight stories on any new building.",
+          "San Francisco has strict zoning laws to preserve neighborhoods."
+        ]
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzəʊnɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": ""
+          }
+        ],
+        "definition": "the process of giving a special purpose to a particular area, such as an area in a town: ",
+        "level": "N/A",
+        "examples": [
+          "She is an attorney who specializes in issues of land use and zoning.",
+          "The area is protected by zoning laws.",
+          "The zoning change required for the South Side project is on the agenda for Wednesday's City Council meeting."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zonked": {
+    "name": "zonked",
+    "meanings": [
+      {
+        "word_type": "adjective[ after verb ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zɒŋkt"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zɑːŋkt"
+          }
+        ],
+        "definition": "extremely tired: ",
+        "level": "N/A",
+        "examples": [
+          "We were really zonked (out) after our long journey."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoo": {
+    "name": "zoo",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuː"
+          }
+        ],
+        "definition": "an area in which animals, especially wild animals, are kept so that people can go and look at them or study them",
+        "level": "A1",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuː"
+          }
+        ],
+        "definition": "a place where there are a lot of people and their behaviour is not well organized or controlled: ",
+        "level": "N/A",
+        "examples": [
+          "The school cafeteria is a zoo."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zu"
+          }
+        ],
+        "definition": "an area in which animals, esp. wild animals, are kept so that people can go and look at them: ",
+        "level": "N/A",
+        "examples": [
+          "The children love to visit the elephants at the zoo."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zooarchaeology": {
+    "character": "z"
+  },
+  "zooid": {
+    "character": "z"
+  },
+  "zookeeper": {
+    "name": "zookeeper",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuːˌkiː.pər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuːˌkiː.pɚ"
+          }
+        ],
+        "definition": "a person who works in a zoo, taking care of the animals",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoological": {
+    "name": "zoological",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzuː.əˈlɒdʒ.ɪ.kəl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzoʊ.əˈlɑː.dʒɪ.kəl"
+          }
+        ],
+        "definition": "relating to the scientific study of animals, especially their structure: ",
+        "level": "N/A",
+        "examples": [
+          "They studied him like a zoological specimen.",
+          "zoological research/classification"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoological-garden": {
+    "name": "zoological garden",
+    "meanings": [
+      {
+        "word_type": "noun[ C usually plural ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzuː.ə.lɒdʒ.ɪ.kəl ˈɡɑː.dən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzoʊ.ə.lɑː.dʒɪ.kəl ˈɡɑːr.dən"
+          }
+        ],
+        "definition": "formal for\n        \n         zoo  ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoologist": {
+    "name": "zoologist",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːˈɒl.ə.dʒɪst"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊˈɑːlə.ə.dʒɪst"
+          }
+        ],
+        "definition": "a person who scientifically studies animals",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoology": {
+    "name": "zoology",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːˈɒl.ə.dʒi"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zoʊˈɑː.lə.dʒi"
+          }
+        ],
+        "definition": "the scientific study of animals, especially their structure",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zoʊˈɑl·ə·dʒi"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzoʊ·əˈlɑdʒ·ɪ·kəl"
+          }
+        ],
+        "definition": "the scientific study of animals",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoom": {
+    "name": "Zoom",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːm"
+          }
+        ],
+        "definition": "a brand name for computer software that allows a group of two or more people to see and talk to each other over the internet using their computers, tablets, or smartphones: ",
+        "level": "N/A",
+        "examples": [
+          "Those of us working from home during the coronavirus pandemic soon became a lot more familiar with Zoom.",
+          "Read our guide on how to use Zoom and how to set up a Zoom meeting."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːm"
+          }
+        ],
+        "definition": "to move very quickly: ",
+        "level": "N/A",
+        "examples": [
+          "They got into the car and zoomed off.",
+          "In the last few metres of the race, she suddenly zoomed ahead."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːm"
+          }
+        ],
+        "definition": "If prices or sales zoom, they increase suddenly and quickly: ",
+        "level": "N/A",
+        "examples": [
+          "House prices suddenly zoomed up last year."
+        ]
+      },
+      {
+        "word_type": "verb",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːm"
+          }
+        ],
+        "definition": "to communicate using the software application Zoom: ",
+        "level": "N/A",
+        "examples": [
+          "When we are zooming with our friends it reduces the solitude of social distancing.",
+          "Have you Zoomed yet? Here's your chance to give it a try in our online book discussion."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːm"
+          }
+        ],
+        "definition": "a \n        \n         zoom lens  ",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "verb[ I ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zum"
+          }
+        ],
+        "definition": "to move very quickly: ",
+        "level": "N/A",
+        "examples": [
+          "Cars and trucks zoom past."
+        ]
+      },
+      {
+        "word_type": "verb[ I ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zum"
+          }
+        ],
+        "definition": "If costs, sales, etc., zoom, they increase quickly: ",
+        "level": "N/A",
+        "examples": [
+          "In two months the magazine’s circulation zoomed to 26,000."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoom-bomb": {
+    "name": "Zoom bomb",
+    "meanings": [
+      {
+        "word_type": "verb[ T ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuːm ˌbɒm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuːm ˌbɑːm"
+          }
+        ],
+        "definition": "to take part in a video conference (= a meeting at which two or more people who are in different places can talk to and see each other using electronic technology) to which you have not been invited, often with the intention of interrupting and annoying the people in the meeting: ",
+        "level": "N/A",
+        "examples": [
+          "A high school in Massachusetts is taking measures after a person “Zoom bombed” a class on the first day of school.",
+          "Are you worried that someone will zoombomb your class or meeting?",
+          "Have you been Zoom-bombed yet? If you haven't, you're one of the lucky ones."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoom-in": {
+    "name": "zoom in",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zum"
+          }
+        ],
+        "definition": "to adjust a camera to make a person or thing being photographed appear larger or closer: ",
+        "level": "N/A",
+        "examples": [
+          "At the beginning of the movie, the camera zooms in to show two people sitting by the side of a river."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoom-in-on": {
+    "name": "zoom in on something",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːm"
+          }
+        ],
+        "definition": "to notice and give special attention to something: ",
+        "level": "N/A",
+        "examples": [
+          "Henry immediately zoomed in on the weakest part of my argument."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoom-in-out": {
+    "name": "zoom in/out",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːm"
+          }
+        ],
+        "definition": "to (cause a camera or computer to) make the image of something or someone appear much larger and nearer, or much smaller and further away: ",
+        "level": "N/A",
+        "examples": [
+          "At the beginning of the film, the camera zooms in to show two people sitting by the side of a river.",
+          "Click on a photo of any student, and it zooms out to full-size.",
+          "Television cameras zoomed in on the fans cheering in the stands."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoom-lens": {
+    "name": "zoom lens",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuːm ˌlenz"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuːm ˌlenz"
+          }
+        ],
+        "definition": "a device attached to a camera that can make the person or object being photographed appear nearer",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoom-out": {
+    "name": "zoom out",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zum"
+          }
+        ],
+        "definition": "to adjust a camera to make a person or thing being photographed appear smaller or farther away: ",
+        "level": "N/A",
+        "examples": [
+          "Zoom out and aim at Uncle Dave flipping burgers on the grill."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoombomber": {
+    "name": "Zoombomber",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuːm.bɒm.ər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuːm.bɑː.mɚ"
+          }
+        ],
+        "definition": "a person who takes part in a video conference (= a meeting at which two or more people who are in different places can talk to and see each other using electronic technology) to which they have not been invited, often with the intention of interrupting and annoying the people in the meeting: ",
+        "level": "N/A",
+        "examples": [
+          "Zoom allows hosts to suspend meetings, eject the Zoombomber, and alert high-risk sessions.",
+          "Sometimes, despite you taking every precaution, a stealthy Zoom bomber sneaks in."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoombombing": {
+    "name": "Zoombombing",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuːm.bɒm.ɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuːm.bɑː.mɪŋ"
+          }
+        ],
+        "definition": "the act of someone taking part in a video conference (= a meeting at which two or more people who are in different places can talk to and see each other using electronic technology) to which they have not been invited, often with the intention of interrupting and annoying the people in the meeting: ",
+        "level": "N/A",
+        "examples": [
+          "Zoombombing, a kind of virtual gatecrashing that has been used to spread harassment and hate speech, has become a serious problem during the pandemic.",
+          "Zoom announced security enhancements designed to help meeting hosts block zoombombing attempts."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoomer": {
+    "name": "Zoomer",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.mər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.mɚ"
+          }
+        ],
+        "definition": "a way of referring to a person who was born in the late 1990s or early 2000s: ",
+        "level": "N/A",
+        "examples": [
+          "Millennials and Zoomers aren’t parents and children respectively but rather siblings, one older and one younger, both forged by the internet.",
+          "Generation Z consists of those people (also known as zoomers) who were born between 1997 and 2012.",
+          "This colour is sometimes called Zoomer green to reference the generation who wears it."
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.mər"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.mɚ"
+          }
+        ],
+        "definition": "a person using Zoom (= a brand name for computer software that allows a group of two or more people to see and talk to each other over the internet using their computers, tablets, or smartphones): ",
+        "level": "N/A",
+        "examples": [
+          "Get to know all the options that are available and you’ll be the most clued-up Zoomer on your next video chat."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoomies": {
+    "name": "zoomies",
+    "meanings": [
+      {
+        "word_type": "noun[ plural ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.miz"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.miz"
+          }
+        ],
+        "definition": "the act of an animal running around, sometimes in circles, in a very energetic way: ",
+        "level": "N/A",
+        "examples": [
+          "In the article a vet explains what can cause the zoomies in your pet.",
+          "Often your dog can get the zoomies in certain situations, like when you come home or produce a particular toy.",
+          "She stayed by my side and did not do zoomies."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zoomorphic": {
+    "character": "z"
+  },
+  "zoonoses": {
+    "name": "zoonoses",
+    "meanings": [
+      {
+        "word_type": "",
+        "ipa": [],
+        "definition": "plural of \n        \n         zoonosis   specialized",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoonosis": {
+    "name": "zoonosis",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzuː.əˈnəʊ.sɪs"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzuː.əˈnoʊ.sɪs"
+          },
+          {
+            "region": "uk",
+            "pronunciation": "ˌzuː.əˈnəʊ.siːz"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzuː.əˈnoʊ.siːz"
+          }
+        ],
+        "definition": "a disease that can spread from animals to humans",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoonotic": {
+    "name": "zoonotic",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzuː.əˈnɒt.ɪk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzuː.əˈnɑː.t̬ɪk"
+          }
+        ],
+        "definition": "(of a disease) able to spread from animals to humans: ",
+        "level": "N/A",
+        "examples": [
+          "Rabies is perhaps the best-known and most feared of all zoonotic diseases.",
+          "The source of these infections is unknown, but zoonotic transmission from pigs has been suggested.",
+          "Zoonotic transfer of pathogens to humans has been attributed to changes in natural environments for expanded global food production."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zooplankton": {
+    "name": "zooplankton",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzəʊ.əˈplæŋk.tən"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzoʊ.əˈplæŋk.tən"
+          }
+        ],
+        "definition": "very small animals that float near the surface of water and on which other sea creatures feed",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "plural noun",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˌzoʊ·əˈplæŋk·tən"
+          }
+        ],
+        "definition": "very small animals that float near the surface of water",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zooty": {
+    "name": "zooty",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.ti"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.t̬i"
+          }
+        ],
+        "definition": "having a bright, fashionable style or manner that gets you a lot of attention: ",
+        "level": "N/A",
+        "examples": [
+          "There's a large, zooty terrace restaurant on the top floor of the hotel. ",
+          "They said that a prize would be given to the person in the zootiest suit."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zorbing": {
+    "name": "zorbing",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzɔː.bɪŋ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzɔːr.bɪŋ"
+          }
+        ],
+        "definition": "an activity in which someone rolls down a hill or along the surface of water in a large transparent plastic ball",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zoroastrianism": {
+    "name": "Zoroastrianism",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzɒr.əʊˈæs.tri.ə.nɪ.zəm"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzɔːr.oʊˈæs.tri.ə.nɪ.zəm"
+          }
+        ],
+        "definition": "a religion that developed in ancient Iran, based on the idea that there is a continuous fight between a god who represents good and one who represents evil",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zouk": {
+    "name": "zouk",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuːk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːk"
+          }
+        ],
+        "definition": "a type of popular music with a fast beat, combining features of French Caribbean and Western music: ",
+        "level": "N/A",
+        "examples": [
+          "Zouk is believed to have originated on the island of Guadeloupe in the Caribbean.",
+          "They danced all night to thumping zouk tunes."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zucchini": {
+    "name": "zucchini",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zuˈkiː.ni"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zuːˈkiː.ni"
+          }
+        ],
+        "definition": "a long, thin vegetable with a dark green skin. It is a type of small marrow .",
+        "level": "B2",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C/U ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "zʊˈki·ni"
+          }
+        ],
+        "definition": "a long, thin vegetable with a green or yellow skin that is usually cooked before being eaten",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zulu": {
+    "name": "Zulu",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.luː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.luː"
+          }
+        ],
+        "definition": "a member of a people who live in Southern Africa: ",
+        "level": "N/A",
+        "examples": [
+          "The Zulus are South Africa's largest ethnic group.",
+          "Zuma is a Zulu and Mbeki is from the Xhosa ethnic group."
+        ]
+      },
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.luː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.luː"
+          }
+        ],
+        "definition": "the language spoken by the Zulu people: ",
+        "level": "N/A",
+        "examples": [
+          "He speaks Zulu.",
+          "She gave us a vocabulary lesson in Zulu, complete with clicks and pops of the tongue."
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.luː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.luː"
+          }
+        ],
+        "definition": "belonging or relating to a member of a people who live in Southern Africa: ",
+        "level": "N/A",
+        "examples": [
+          "a Zulu chief",
+          "Her nanny, a Zulu woman, introduced her to African mysticism."
+        ]
+      },
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzuː.luː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuː.luː"
+          }
+        ],
+        "definition": "belonging or relating to the language spoken by the Zulu people: ",
+        "level": "N/A",
+        "examples": [
+          "Laduma is the Zulu word for \"goal\".",
+          "Because of her limited knowledge of the Zulu language, she sometimes felt like an outsider."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zumba": {
+    "name": "Zumba",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzʊm.bə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzuːm.bə"
+          }
+        ],
+        "definition": "a brand name for a type of exercise in which you do dance moves and other exercises to Latin American music, usually in a class with other people ",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zuppa-inglese": {
+    "name": "zuppa inglese",
+    "meanings": [
+      {
+        "word_type": "noun[ U or S ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzʊp.ə ɪŋˈɡleɪ.zeɪ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzuː.pə ɪŋˈɡleɪ.seɪ"
+          }
+        ],
+        "definition": "a sweet dish from Italy consisting of layers of custard (= a sweet sauce made from eggs, milk, and sugar) and sponge cake (= a soft cake made with eggs, sugar, and flour) and often alcohol: ",
+        "level": "N/A",
+        "examples": [
+          "I had never eaten zuppa inglese before, but it was delicious.",
+          "They served us a wonderful zuppa inglese for dessert."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zwieback": {
+    "name": "zwieback",
+    "meanings": [
+      {
+        "word_type": "noun[ C or U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzwaɪ.bæk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzwaɪ.bek"
+          }
+        ],
+        "definition": "a type of bread that is sliced and made crisp (= hard enough to break): ",
+        "level": "N/A",
+        "examples": [
+          "She has started to make her own zwieback by baking a loaf, slicing it, and then baking those slices again so they go crisp.",
+          "I've been enjoying cream cheese and smoked salmon on zwieback crackers.",
+          "Put the crushed zweibacks and butter in a pan."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zwitterion": {
+    "character": "z"
+  },
+  "zydeco": {
+    "name": "zydeco",
+    "meanings": [
+      {
+        "word_type": "noun[ U ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.dɪ.kəʊ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.dɪ.koʊ"
+          }
+        ],
+        "definition": "a type of dance music originally played by black musicians in Louisiana in the US, often using an accordion and a washboard",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zygodactyl": {
+    "name": "zygodactyl",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzaɪ.ɡəˈdæk.tɪl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzaɪ.ɡəˈdæk.tɪl"
+          }
+        ],
+        "definition": "(of a bird's foot) having two toes pointing forwards and two toes pointing backwards: ",
+        "level": "N/A",
+        "examples": [
+          "the cuckoo's zygodactyl toes"
+        ]
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˌzaɪ.ɡəˈdæk.tɪl"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzaɪ.ɡəˈdæk.tɪl"
+          }
+        ],
+        "definition": "a bird's foot that has two toes pointing forwards and two toes pointing backwards, or the bird itself: ",
+        "level": "N/A",
+        "examples": [
+          "Woodpeckers have zygodactyls."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zygoma": {
+    "name": "zygoma",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪˈɡəʊ.mə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪˈɡoʊ.mə"
+          },
+          {
+            "region": "uk",
+            "pronunciation": "zaɪˈɡəʊ.mə.tə"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪˈɡoʊ.mə.t̬ə"
+          }
+        ],
+        "definition": "one of two bones of the skull (= the bones of the head that surround and protect the brain) at the top of your cheeks, just below your eye and towards your ear: ",
+        "level": "N/A",
+        "examples": [
+          "X-rays showed a fracture of the left zygoma. ",
+          "The zygomas form part of the side of the face."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zygomatic": {
+    "name": "zygomatic",
+    "meanings": [
+      {
+        "word_type": "adjective",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪ.ɡəʊˈmæt.ɪk"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzaɪ.ɡəˈmæt̬.ɪk"
+          }
+        ],
+        "definition": "relating to the cheek bone: ",
+        "level": "N/A",
+        "examples": [
+          "the zygomatic bone"
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zygomatic-arch": {
+    "name": "zygomatic arch",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪ.ɡəˌmæt.ɪk ˈɑːtʃ"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪ.ɡəˌmæt̬.ɪk ˈɑːrtʃ"
+          }
+        ],
+        "definition": "one of two curved bone structures around each side of the face that protect the eye, including the cheekbone and a narrow piece of bone that joins this to the side of the skull (= the bones of the head that surround and protect the brain): ",
+        "level": "N/A",
+        "examples": [
+          "A scan revealed a fracture of the zygomatic arch under his left eye. ",
+          "The zygomatic arch is attached to one of the chewing muscles, the masseter muscle. "
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zygomatic-bone": {
+    "name": "zygomatic bone",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪ.ɡəˌmæt.ɪk ˈbəʊn"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪ.ɡəˌmæt̬.ɪk ˈboʊn"
+          }
+        ],
+        "definition": "one of two bones of the skull (= the bones of the head that surround and protect the brain) at the top of your cheeks, just below the eye and towards your ear: ",
+        "level": "N/A",
+        "examples": [
+          "She had a broken zygomatic bone in her face.",
+          "The zygomatic bone on either side forms the prominence of the cheek."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zygomatic-process": {
+    "name": "zygomatic process",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪ.ɡəˌmæt.ɪk ˈprəʊ.ses"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zaɪ.ɡəˌmæt̬.ɪk ˈprɑː.ses"
+          }
+        ],
+        "definition": "any of several narrow pieces of bone that form part of the zygomatic arch (= a curved structure of bones on each side of the face that protects the eye): ",
+        "level": "N/A",
+        "examples": [
+          "The zygomatic processes are two sharp processes of bone at the outer and the inner angle of each arch."
+        ]
+      }
+    ],
+    "character": "z"
+  },
+  "zygomaticus": {
+    "name": "zygomaticus",
+    "meanings": [
+      {
+        "word_type": "noun",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zaɪ.ɡəʊˈmæt.ɪk.əs"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˌzaɪ.ɡəˈmæt̬.ɪ.kəs"
+          }
+        ],
+        "definition": "a set of muscles in the cheek",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zygomorphic": {
+    "character": "z"
+  },
+  "zygote": {
+    "name": "zygote",
+    "meanings": [
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "ˈzaɪ.ɡəʊt"
+          },
+          {
+            "region": "us",
+            "pronunciation": "ˈzaɪ.ɡoʊt"
+          }
+        ],
+        "definition": "the cell that is formed when a female reproductive cell and a male reproductive cell join",
+        "level": "N/A",
+        "examples": []
+      },
+      {
+        "word_type": "noun[ C ]",
+        "ipa": [
+          {
+            "region": "us",
+            "pronunciation": "ˈzɑɪ·ɡoʊt"
+          }
+        ],
+        "definition": "the cell that will develop into a baby person or animal and that is created when a male and female gamete (= cell from each parent) unite",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  },
+  "zzz": {
+    "name": "zzz",
+    "meanings": [
+      {
+        "word_type": "exclamation",
+        "ipa": [
+          {
+            "region": "uk",
+            "pronunciation": "zː"
+          },
+          {
+            "region": "us",
+            "pronunciation": "zː"
+          }
+        ],
+        "definition": "used in a picture or a piece of writing to represent the noise that people make when they are sleeping",
+        "level": "N/A",
+        "examples": []
+      }
+    ],
+    "character": "z"
+  }
+}
